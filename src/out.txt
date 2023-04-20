@@ -1,0 +1,1479 @@
+time1 without context switch: 	0.863242 us	0.875831 us	0.922751 us	
+measureSingle: array_size = 0, stride = 0, min time1 = 0.863242149353027
+time2 with context swith: 	3.342998 us	3.335178 us	3.381133 us	
+measureSwitch: array_size = 0, stride = 0, min time2 = 3.335177898406982
+time1 without context switch: 	0.863528 us	0.855160 us	0.913811 us	
+measureSingle: array_size = 0, stride = 0, min time1 = 0.855159759521484
+time2 with context swith: 	3.371990 us	3.362024 us	1.804018 us	
+measureSwitch: array_size = 0, stride = 0, min time2 = 1.804018020629883
+time1 without context switch: 	0.882983 us	0.875092 us	0.877070 us	
+measureSingle: array_size = 0, stride = 0, min time1 = 0.875091552734375
+time2 with context swith: 	3.380370 us	3.337944 us	3.310025 us	
+measureSwitch: array_size = 0, stride = 0, min time2 = 3.310024738311768
+time1 without context switch: 	0.865269 us	0.860810 us	0.867462 us	
+measureSingle: array_size = 0, stride = 0, min time1 = 0.860810279846191
+time2 with context swith: 	3.360248 us	3.331220 us	3.324378 us	
+measureSwitch: array_size = 0, stride = 0, min time2 = 3.324377536773682
+time1 without context switch: 	0.876498 us	0.865149 us	0.857496 us	
+measureSingle: array_size = 0, stride = 0, min time1 = 0.857496261596680
+time2 with context swith: 	3.344798 us	3.353822 us	3.354168 us	
+measureSwitch: array_size = 0, stride = 0, min time2 = 3.344798088073730
+time1 without context switch: 	0.871587 us	0.845861 us	0.872612 us	
+measureSingle: array_size = 0, stride = 0, min time1 = 0.845861434936523
+time2 with context swith: 	3.321183 us	3.382266 us	3.396583 us	
+measureSwitch: array_size = 0, stride = 0, min time2 = 3.321182727813721
+time1 without context switch: 	0.864935 us	0.855160 us	0.883365 us	
+measureSingle: array_size = 8, stride = 0, min time1 = 0.855159759521484
+time2 with context swith: 	3.346574 us	3.353930 us	3.358126 us	
+measureSwitch: array_size = 8, stride = 0, min time2 = 3.346574306488037
+time1 without context switch: 	0.853515 us	0.860500 us	0.860500 us	
+measureSingle: array_size = 8, stride = 0, min time1 = 0.853514671325684
+time2 with context swith: 	3.336930 us	3.365886 us	3.374600 us	
+measureSwitch: array_size = 8, stride = 0, min time2 = 3.336930274963379
+time1 without context switch: 	0.873923 us	0.851560 us	0.874996 us	
+measureSingle: array_size = 8, stride = 0, min time1 = 0.851559638977051
+time2 with context swith: 	3.391266 us	3.357017 us	3.358400 us	
+measureSwitch: array_size = 8, stride = 0, min time2 = 3.357017040252686
+time1 without context switch: 	0.875092 us	0.867200 us	0.857401 us	
+measureSingle: array_size = 8, stride = 8, min time1 = 0.857400894165039
+time2 with context swith: 	3.350627 us	3.381395 us	3.360736 us	
+measureSwitch: array_size = 8, stride = 8, min time2 = 3.350627422332764
+time1 without context switch: 	0.858378 us	0.859833 us	0.866294 us	
+measureSingle: array_size = 16, stride = 0, min time1 = 0.858378410339355
+time2 with context swith: 	3.331399 us	3.344917 us	3.351939 us	
+measureSwitch: array_size = 16, stride = 0, min time2 = 3.331398963928223
+time1 without context switch: 	0.862050 us	0.896573 us	0.867486 us	
+measureSingle: array_size = 16, stride = 0, min time1 = 0.862050056457520
+time2 with context swith: 	3.348660 us	3.394437 us	3.329384 us	
+measureSwitch: array_size = 16, stride = 0, min time2 = 3.329384326934814
+time1 without context switch: 	0.891423 us	0.883579 us	0.900602 us	
+measureSingle: array_size = 16, stride = 0, min time1 = 0.883579254150391
+time2 with context swith: 	3.359866 us	3.353620 us	3.364718 us	
+measureSwitch: array_size = 16, stride = 0, min time2 = 3.353619575500488
+time1 without context switch: 	0.879097 us	0.881886 us	0.866699 us	
+measureSingle: array_size = 16, stride = 8, min time1 = 0.866699218750000
+time2 with context swith: 	3.374970 us	3.343439 us	3.364503 us	
+measureSwitch: array_size = 16, stride = 8, min time2 = 3.343439102172852
+time1 without context switch: 	0.901175 us	0.894117 us	0.902534 us	
+measureSingle: array_size = 16, stride = 16, min time1 = 0.894117355346680
+time2 with context swith: 	3.402054 us	3.404224 us	3.371787 us	
+measureSwitch: array_size = 16, stride = 16, min time2 = 3.371787071228027
+time1 without context switch: 	0.902700 us	0.863624 us	0.853801 us	
+measureSingle: array_size = 32, stride = 0, min time1 = 0.853800773620605
+time2 with context swith: 	3.344810 us	3.376532 us	3.344190 us	
+measureSwitch: array_size = 32, stride = 0, min time2 = 3.344190120697021
+time1 without context switch: 	0.905180 us	0.857568 us	0.890160 us	
+measureSingle: array_size = 32, stride = 0, min time1 = 0.857567787170410
+time2 with context swith: 	3.340924 us	3.338110 us	3.341603 us	
+measureSwitch: array_size = 32, stride = 0, min time2 = 3.338110446929932
+time1 without context switch: 	0.922346 us	0.870609 us	0.922966 us	
+measureSingle: array_size = 32, stride = 0, min time1 = 0.870609283447266
+time2 with context swith: 	3.341866 us	3.334725 us	3.348541 us	
+measureSwitch: array_size = 32, stride = 0, min time2 = 3.334724903106689
+time1 without context switch: 	0.887680 us	0.953031 us	0.866628 us	
+measureSingle: array_size = 32, stride = 8, min time1 = 0.866627693176270
+time2 with context swith: 	3.367519 us	3.369808 us	3.356886 us	
+measureSwitch: array_size = 32, stride = 8, min time2 = 3.356885910034180
+time1 without context switch: 	0.874829 us	0.881076 us	0.876498 us	
+measureSingle: array_size = 32, stride = 16, min time1 = 0.874829292297363
+time2 with context swith: 	3.381848 us	3.373981 us	3.391564 us	
+measureSwitch: array_size = 32, stride = 16, min time2 = 3.373980522155762
+time1 without context switch: 	0.912905 us	0.879645 us	0.876713 us	
+measureSingle: array_size = 32, stride = 32, min time1 = 0.876712799072266
+time2 with context swith: 	3.379118 us	3.382850 us	3.370368 us	
+measureSwitch: array_size = 32, stride = 32, min time2 = 3.370368480682373
+time1 without context switch: 	0.880527 us	0.853205 us	0.868750 us	
+measureSingle: array_size = 64, stride = 0, min time1 = 0.853204727172852
+time2 with context swith: 	3.321779 us	3.353095 us	3.374684 us	
+measureSwitch: array_size = 64, stride = 0, min time2 = 3.321778774261475
+time1 without context switch: 	0.864482 us	0.859594 us	0.895882 us	
+measureSingle: array_size = 64, stride = 0, min time1 = 0.859594345092773
+time2 with context swith: 	3.346300 us	3.357553 us	3.335023 us	
+measureSwitch: array_size = 64, stride = 0, min time2 = 3.335022926330566
+time1 without context switch: 	0.861287 us	0.862670 us	0.858331 us	
+measureSingle: array_size = 64, stride = 0, min time1 = 0.858330726623535
+time2 with context swith: 	3.336585 us	3.326917 us	3.316724 us	
+measureSwitch: array_size = 64, stride = 0, min time2 = 3.316724300384521
+time1 without context switch: 	0.940061 us	0.892162 us	0.883555 us	
+measureSingle: array_size = 64, stride = 8, min time1 = 0.883555412292480
+time2 with context swith: 	3.372562 us	3.371787 us	3.368938 us	
+measureSwitch: array_size = 64, stride = 8, min time2 = 3.368937969207764
+time1 without context switch: 	0.885606 us	0.883651 us	0.871658 us	
+measureSingle: array_size = 64, stride = 16, min time1 = 0.871658325195312
+time2 with context swith: 	3.381693 us	3.393734 us	3.356612 us	
+measureSwitch: array_size = 64, stride = 16, min time2 = 3.356611728668213
+time1 without context switch: 	0.892067 us	0.888658 us	0.891376 us	
+measureSingle: array_size = 64, stride = 32, min time1 = 0.888657569885254
+time2 with context swith: 	3.356349 us	3.338730 us	3.364885 us	
+measureSwitch: array_size = 64, stride = 32, min time2 = 3.338730335235596
+time1 without context switch: 	0.883460 us	0.918150 us	0.896978 us	
+measureSingle: array_size = 64, stride = 64, min time1 = 0.883460044860840
+time2 with context swith: 	3.421199 us	3.377771 us	3.394568 us	
+measureSwitch: array_size = 64, stride = 64, min time2 = 3.377771377563477
+time1 without context switch: 	0.871921 us	0.855732 us	0.853062 us	
+measureSingle: array_size = 128, stride = 0, min time1 = 0.853061676025391
+time2 with context swith: 	3.348172 us	3.365123 us	3.351748 us	
+measureSwitch: array_size = 128, stride = 0, min time2 = 3.348171710968018
+time1 without context switch: 	0.862885 us	0.910807 us	0.853634 us	
+measureSingle: array_size = 128, stride = 0, min time1 = 0.853633880615234
+time2 with context swith: 	3.338718 us	3.334844 us	3.346658 us	
+measureSwitch: array_size = 128, stride = 0, min time2 = 3.334844112396240
+time1 without context switch: 	0.898600 us	0.858474 us	0.850463 us	
+measureSingle: array_size = 128, stride = 0, min time1 = 0.850462913513184
+time2 with context swith: 	3.352034 us	3.327715 us	3.350091 us	
+measureSwitch: array_size = 128, stride = 0, min time2 = 3.327715396881104
+time1 without context switch: 	0.935006 us	0.893140 us	0.899935 us	
+measureSingle: array_size = 128, stride = 8, min time1 = 0.893139839172363
+time2 with context swith: 	3.365374 us	3.374982 us	3.384399 us	
+measureSwitch: array_size = 128, stride = 8, min time2 = 3.365373611450195
+time1 without context switch: 	0.888729 us	0.885272 us	0.902605 us	
+measureSingle: array_size = 128, stride = 16, min time1 = 0.885272026062012
+time2 with context swith: 	3.361022 us	3.365636 us	3.351772 us	
+measureSwitch: array_size = 128, stride = 16, min time2 = 3.351771831512451
+time1 without context switch: 	0.914788 us	0.911212 us	0.903821 us	
+measureSingle: array_size = 128, stride = 32, min time1 = 0.903820991516113
+time2 with context swith: 	3.362513 us	3.343511 us	3.376615 us	
+measureSwitch: array_size = 128, stride = 32, min time2 = 3.343510627746582
+time1 without context switch: 	0.907063 us	0.954103 us	0.899410 us	
+measureSingle: array_size = 128, stride = 64, min time1 = 0.899410247802734
+time2 with context swith: 	3.392053 us	3.371835 us	3.380322 us	
+measureSwitch: array_size = 128, stride = 64, min time2 = 3.371834754943848
+time1 without context switch: 	0.939918 us	0.917912 us	0.914836 us	
+measureSingle: array_size = 128, stride = 128, min time1 = 0.914835929870605
+time2 with context swith: 	3.407502 us	3.392947 us	3.418088 us	
+measureSwitch: array_size = 128, stride = 128, min time2 = 3.392946720123291
+time1 without context switch: 	0.862098 us	0.864625 us	0.857496 us	
+measureSingle: array_size = 256, stride = 0, min time1 = 0.857496261596680
+time2 with context swith: 	3.314435 us	3.340697 us	3.327298 us	
+measureSwitch: array_size = 256, stride = 0, min time2 = 3.314435482025146
+time1 without context switch: 	0.895715 us	0.867534 us	0.861454 us	
+measureSingle: array_size = 256, stride = 0, min time1 = 0.861454010009766
+time2 with context swith: 	3.378248 us	3.352773 us	3.362584 us	
+measureSwitch: array_size = 256, stride = 0, min time2 = 3.352773189544678
+time1 without context switch: 	0.848579 us	0.855374 us	0.885367 us	
+measureSingle: array_size = 256, stride = 0, min time1 = 0.848579406738281
+time2 with context swith: 	3.354132 us	3.341675 us	3.362238 us	
+measureSwitch: array_size = 256, stride = 0, min time2 = 3.341674804687500
+time1 without context switch: 	0.945807 us	0.901508 us	0.904799 us	
+measureSingle: array_size = 256, stride = 8, min time1 = 0.901508331298828
+time2 with context swith: 	3.406358 us	3.389680 us	3.409541 us	
+measureSwitch: array_size = 256, stride = 8, min time2 = 3.389680385589600
+time1 without context switch: 	0.929451 us	0.914836 us	0.907183 us	
+measureSingle: array_size = 256, stride = 16, min time1 = 0.907182693481445
+time2 with context swith: 	3.387070 us	3.416932 us	3.402758 us	
+measureSwitch: array_size = 256, stride = 16, min time2 = 3.387069702148438
+time1 without context switch: 	0.917673 us	0.912571 us	0.574064 us	
+measureSingle: array_size = 256, stride = 32, min time1 = 0.574064254760742
+time2 with context swith: 	3.392065 us	3.404939 us	3.397965 us	
+measureSwitch: array_size = 256, stride = 32, min time2 = 3.392064571380615
+time1 without context switch: 	0.943685 us	0.932622 us	0.913215 us	
+measureSingle: array_size = 256, stride = 64, min time1 = 0.913214683532715
+time2 with context swith: 	3.422463 us	3.432953 us	3.435338 us	
+measureSwitch: array_size = 256, stride = 64, min time2 = 3.422462940216064
+time1 without context switch: 	0.940347 us	0.944233 us	0.974035 us	
+measureSingle: array_size = 256, stride = 128, min time1 = 0.940346717834473
+time2 with context swith: 	3.473389 us	3.479350 us	3.436196 us	
+measureSwitch: array_size = 256, stride = 128, min time2 = 3.436195850372314
+time1 without context switch: 	0.958896 us	1.012421 us	1.005101 us	
+measureSingle: array_size = 256, stride = 256, min time1 = 0.958895683288574
+time2 with context swith: 	3.469491 us	3.450847 us	3.455508 us	
+measureSwitch: array_size = 256, stride = 256, min time2 = 3.450846672058105
+time1 without context switch: 	0.855637 us	0.867414 us	0.863099 us	
+measureSingle: array_size = 512, stride = 0, min time1 = 0.855636596679688
+time2 with context swith: 	3.407943 us	3.371406 us	3.339136 us	
+measureSwitch: array_size = 512, stride = 0, min time2 = 3.339135646820068
+time1 without context switch: 	0.883746 us	0.866318 us	0.867486 us	
+measureSingle: array_size = 512, stride = 0, min time1 = 0.866317749023438
+time2 with context swith: 	3.338659 us	3.328812 us	3.339911 us	
+measureSwitch: array_size = 512, stride = 0, min time2 = 3.328812122344971
+time1 without context switch: 	0.870180 us	0.853038 us	0.913382 us	
+measureSingle: array_size = 512, stride = 0, min time1 = 0.853037834167480
+time2 with context swith: 	3.343272 us	3.336740 us	3.332007 us	
+measureSwitch: array_size = 512, stride = 0, min time2 = 3.332006931304932
+time1 without context switch: 	0.986791 us	0.950027 us	0.963330 us	
+measureSingle: array_size = 512, stride = 8, min time1 = 0.950026512145996
+time2 with context swith: 	3.458202 us	3.440559 us	3.467834 us	
+measureSwitch: array_size = 512, stride = 8, min time2 = 3.440558910369873
+time1 without context switch: 	0.959635 us	0.975108 us	0.950933 us	
+measureSingle: array_size = 512, stride = 16, min time1 = 0.950932502746582
+time2 with context swith: 	3.422344 us	3.423738 us	3.421450 us	
+measureSwitch: array_size = 512, stride = 16, min time2 = 3.421449661254883
+time1 without context switch: 	0.982952 us	0.961375 us	0.963831 us	
+measureSingle: array_size = 512, stride = 32, min time1 = 0.961375236511230
+time2 with context swith: 	3.456640 us	3.446126 us	3.442824 us	
+measureSwitch: array_size = 512, stride = 32, min time2 = 3.442823886871338
+time1 without context switch: 	0.958538 us	0.960684 us	0.960088 us	
+measureSingle: array_size = 512, stride = 64, min time1 = 0.958538055419922
+time2 with context swith: 	3.454089 us	3.466165 us	3.460121 us	
+measureSwitch: array_size = 512, stride = 64, min time2 = 3.454089164733887
+time1 without context switch: 	0.969315 us	1.016641 us	0.974345 us	
+measureSingle: array_size = 512, stride = 128, min time1 = 0.969314575195312
+time2 with context swith: 	3.491378 us	3.452349 us	3.481364 us	
+measureSwitch: array_size = 512, stride = 128, min time2 = 3.452348709106445
+time1 without context switch: 	1.005125 us	1.010227 us	1.050043 us	
+measureSingle: array_size = 512, stride = 256, min time1 = 1.005125045776367
+time2 with context swith: 	3.467345 us	3.474975 us	3.467357 us	
+measureSwitch: array_size = 512, stride = 256, min time2 = 3.467345237731934
+time1 without context switch: 	1.013565 us	1.003051 us	1.008081 us	
+measureSingle: array_size = 512, stride = 512, min time1 = 1.003050804138184
+time2 with context swith: 	3.512704 us	3.496218 us	3.485405 us	
+measureSwitch: array_size = 512, stride = 512, min time2 = 3.485405445098877
+time1 without context switch: 	0.869370 us	0.858331 us	0.864124 us	
+measureSingle: array_size = 1024, stride = 0, min time1 = 0.858330726623535
+time2 with context swith: 	3.344393 us	3.341353 us	3.350449 us	
+measureSwitch: array_size = 1024, stride = 0, min time2 = 3.341352939605713
+time1 without context switch: 	0.907421 us	0.935793 us	0.860262 us	
+measureSingle: array_size = 1024, stride = 0, min time1 = 0.860261917114258
+time2 with context swith: 	3.340375 us	3.331840 us	3.324783 us	
+measureSwitch: array_size = 1024, stride = 0, min time2 = 3.324782848358154
+time1 without context switch: 	0.853443 us	0.856519 us	0.879049 us	
+measureSingle: array_size = 1024, stride = 0, min time1 = 0.853443145751953
+time2 with context swith: 	2.622294 us	3.350341 us	3.341508 us	
+measureSwitch: array_size = 1024, stride = 0, min time2 = 2.622294425964355
+time1 without context switch: 	1.064014 us	1.051569 us	1.070404 us	
+measureSingle: array_size = 1024, stride = 8, min time1 = 1.051568984985352
+time2 with context swith: 	3.524828 us	3.503609 us	3.506923 us	
+measureSwitch: array_size = 1024, stride = 8, min time2 = 3.503608703613281
+time1 without context switch: 	1.069093 us	1.115942 us	1.061463 us	
+measureSingle: array_size = 1024, stride = 16, min time1 = 1.061463356018066
+time2 with context swith: 	3.566241 us	3.536165 us	3.546727 us	
+measureSwitch: array_size = 1024, stride = 16, min time2 = 3.536164760589600
+time1 without context switch: 	1.040077 us	1.069546 us	1.037645 us	
+measureSingle: array_size = 1024, stride = 32, min time1 = 1.037645339965820
+time2 with context swith: 	3.531682 us	3.545642 us	3.546560 us	
+measureSwitch: array_size = 1024, stride = 32, min time2 = 3.531682491302490
+time1 without context switch: 	1.065421 us	1.067829 us	1.060820 us	
+measureSingle: array_size = 1024, stride = 64, min time1 = 1.060819625854492
+time2 with context swith: 	3.554642 us	3.542995 us	3.548968 us	
+measureSwitch: array_size = 1024, stride = 64, min time2 = 3.542995452880859
+time1 without context switch: 	1.036310 us	1.026750 us	1.073217 us	
+measureSingle: array_size = 1024, stride = 128, min time1 = 1.026749610900879
+time2 with context swith: 	3.542304 us	3.519666 us	3.542614 us	
+measureSwitch: array_size = 1024, stride = 128, min time2 = 3.519666194915771
+time1 without context switch: 	1.060390 us	1.070952 us	1.046085 us	
+measureSingle: array_size = 1024, stride = 256, min time1 = 1.046085357666016
+time2 with context swith: 	3.551555 us	3.552210 us	3.545213 us	
+measureSwitch: array_size = 1024, stride = 256, min time2 = 3.545212745666504
+time1 without context switch: 	1.123953 us	1.145339 us	1.130104 us	
+measureSingle: array_size = 1024, stride = 512, min time1 = 1.123952865600586
+time2 with context swith: 	3.581953 us	3.586280 us	3.596711 us	
+measureSwitch: array_size = 1024, stride = 512, min time2 = 3.581953048706055
+time1 without context switch: 	1.117969 us	1.121330 us	1.112533 us	
+measureSingle: array_size = 1024, stride = 1024, min time1 = 1.112532615661621
+time2 with context swith: 	3.652585 us	3.640854 us	3.668678 us	
+measureSwitch: array_size = 1024, stride = 1024, min time2 = 3.640854358673096
+time1 without context switch: 	0.913811 us	0.884104 us	0.865436 us	
+measureSingle: array_size = 2048, stride = 0, min time1 = 0.865435600280762
+time2 with context swith: 	3.364909 us	3.358746 us	3.377616 us	
+measureSwitch: array_size = 2048, stride = 0, min time2 = 3.358745574951172
+time1 without context switch: 	0.884247 us	0.871348 us	0.855207 us	
+measureSingle: array_size = 2048, stride = 0, min time1 = 0.855207443237305
+time2 with context swith: 	3.370726 us	3.383470 us	3.365099 us	
+measureSwitch: array_size = 2048, stride = 0, min time2 = 3.365099430084229
+time1 without context switch: 	0.867939 us	0.849366 us	0.876355 us	
+measureSingle: array_size = 2048, stride = 0, min time1 = 0.849366188049316
+time2 with context swith: 	3.362477 us	3.345621 us	3.349125 us	
+measureSwitch: array_size = 2048, stride = 0, min time2 = 3.345620632171631
+time1 without context switch: 	1.184845 us	1.175594 us	1.180077 us	
+measureSingle: array_size = 2048, stride = 8, min time1 = 1.175594329833984
+time2 with context swith: 	3.712857 us	3.731763 us	3.705251 us	
+measureSwitch: array_size = 2048, stride = 8, min time2 = 3.705251216888428
+time1 without context switch: 	1.225781 us	1.247191 us	1.209068 us	
+measureSingle: array_size = 2048, stride = 16, min time1 = 1.209068298339844
+time2 with context swith: 	3.689373 us	3.725970 us	3.712428 us	
+measureSwitch: array_size = 2048, stride = 16, min time2 = 3.689372539520264
+time1 without context switch: 	1.261663 us	1.222968 us	1.272750 us	
+measureSingle: array_size = 2048, stride = 32, min time1 = 1.222968101501465
+time2 with context swith: 	3.733945 us	3.699124 us	3.719711 us	
+measureSwitch: array_size = 2048, stride = 32, min time2 = 3.699123859405518
+time1 without context switch: 	1.206112 us	1.194191 us	1.177979 us	
+measureSingle: array_size = 2048, stride = 64, min time1 = 1.177978515625000
+time2 with context swith: 	3.685737 us	3.647327 us	3.696239 us	
+measureSwitch: array_size = 2048, stride = 64, min time2 = 3.647327423095703
+time1 without context switch: 	1.222253 us	1.208091 us	1.200008 us	
+measureSingle: array_size = 2048, stride = 128, min time1 = 1.200008392333984
+time2 with context swith: 	3.729582 us	3.723586 us	3.684974 us	
+measureSwitch: array_size = 2048, stride = 128, min time2 = 3.684973716735840
+time1 without context switch: 	1.249361 us	1.211929 us	1.197052 us	
+measureSingle: array_size = 2048, stride = 256, min time1 = 1.197052001953125
+time2 with context swith: 	3.706849 us	3.688717 us	3.713477 us	
+measureSwitch: array_size = 2048, stride = 256, min time2 = 3.688716888427734
+time1 without context switch: 	1.247668 us	1.242256 us	1.243520 us	
+measureSingle: array_size = 2048, stride = 512, min time1 = 1.242256164550781
+time2 with context swith: 	3.741288 us	3.699207 us	3.716314 us	
+measureSwitch: array_size = 2048, stride = 512, min time2 = 3.699207305908203
+time1 without context switch: 	1.366901 us	1.346421 us	1.367903 us	
+measureSingle: array_size = 2048, stride = 1024, min time1 = 1.346421241760254
+time2 with context swith: 	3.807330 us	3.788555 us	3.795040 us	
+measureSwitch: array_size = 2048, stride = 1024, min time2 = 3.788554668426514
+time1 without context switch: 	1.404166 us	1.368999 us	1.357698 us	
+measureSingle: array_size = 2048, stride = 2048, min time1 = 1.357698440551758
+time2 with context swith: 	3.838205 us	3.850722 us	3.864503 us	
+measureSwitch: array_size = 2048, stride = 2048, min time2 = 3.838205337524415
+time1 without context switch: 	0.878382 us	0.859952 us	0.922251 us	
+measureSingle: array_size = 4096, stride = 0, min time1 = 0.859951972961426
+time2 with context swith: 	3.334677 us	3.330529 us	3.346443 us	
+measureSwitch: array_size = 4096, stride = 0, min time2 = 3.330528736114502
+time1 without context switch: 	0.870800 us	0.855660 us	0.878787 us	
+measureSingle: array_size = 4096, stride = 0, min time1 = 0.855660438537598
+time2 with context swith: 	3.358686 us	3.315127 us	3.359067 us	
+measureSwitch: array_size = 4096, stride = 0, min time2 = 3.315126895904541
+time1 without context switch: 	0.889468 us	0.868869 us	0.856996 us	
+measureSingle: array_size = 4096, stride = 0, min time1 = 0.856995582580566
+time2 with context swith: 	3.330588 us	3.355634 us	3.338325 us	
+measureSwitch: array_size = 4096, stride = 0, min time2 = 3.330588340759277
+time1 without context switch: 	1.506686 us	1.494884 us	1.478887 us	
+measureSingle: array_size = 4096, stride = 8, min time1 = 1.478886604309082
+time2 with context swith: 	4.017389 us	4.023409 us	4.035890 us	
+measureSwitch: array_size = 4096, stride = 8, min time2 = 4.017388820648193
+time1 without context switch: 	1.513863 us	1.525259 us	1.505780 us	
+measureSingle: array_size = 4096, stride = 16, min time1 = 1.505780220031738
+time2 with context swith: 	3.987789 us	3.967679 us	3.992283 us	
+measureSwitch: array_size = 4096, stride = 16, min time2 = 3.967678546905517
+time1 without context switch: 	1.541209 us	1.545143 us	1.537251 us	
+measureSingle: array_size = 4096, stride = 32, min time1 = 1.537251472473145
+time2 with context swith: 	4.053986 us	4.045022 us	4.056168 us	
+measureSwitch: array_size = 4096, stride = 32, min time2 = 4.045021533966064
+time1 without context switch: 	1.602006 us	1.604676 us	1.581240 us	
+measureSingle: array_size = 4096, stride = 64, min time1 = 1.581239700317383
+time2 with context swith: 	4.039598 us	4.047215 us	4.061425 us	
+measureSwitch: array_size = 4096, stride = 64, min time2 = 4.039597511291504
+time1 without context switch: 	1.501155 us	1.487088 us	1.510262 us	
+measureSingle: array_size = 4096, stride = 128, min time1 = 1.487088203430176
+time2 with context swith: 	4.006922 us	3.992796 us	3.972673 us	
+measureSwitch: array_size = 4096, stride = 128, min time2 = 3.972673416137696
+time1 without context switch: 	1.521540 us	1.506519 us	1.483226 us	
+measureSingle: array_size = 4096, stride = 256, min time1 = 1.483225822448730
+time2 with context swith: 	4.015446 us	4.002571 us	3.970635 us	
+measureSwitch: array_size = 4096, stride = 256, min time2 = 3.970634937286377
+time1 without context switch: 	1.556778 us	1.490855 us	1.489663 us	
+measureSingle: array_size = 4096, stride = 512, min time1 = 1.489663124084473
+time2 with context swith: 	4.017794 us	3.998888 us	3.995657 us	
+measureSwitch: array_size = 4096, stride = 512, min time2 = 3.995656967163086
+time1 without context switch: 	1.645327 us	1.618695 us	1.596856 us	
+measureSingle: array_size = 4096, stride = 1024, min time1 = 1.596856117248535
+time2 with context swith: 	4.063511 us	4.064679 us	4.079843 us	
+measureSwitch: array_size = 4096, stride = 1024, min time2 = 4.063510894775391
+time1 without context switch: 	1.812983 us	1.816583 us	1.814103 us	
+measureSingle: array_size = 4096, stride = 2048, min time1 = 1.812982559204102
+time2 with context swith: 	4.275191 us	4.281044 us	4.260075 us	
+measureSwitch: array_size = 4096, stride = 2048, min time2 = 4.260075092315674
+time1 without context switch: 	1.860666 us	1.811385 us	1.825714 us	
+measureSingle: array_size = 4096, stride = 4096, min time1 = 1.811385154724121
+time2 with context swith: 	4.337132 us	4.371083 us	4.305339 us	
+measureSwitch: array_size = 4096, stride = 4096, min time2 = 4.305338859558105
+time1 without context switch: 	0.875187 us	0.880837 us	0.882459 us	
+measureSingle: array_size = 8192, stride = 0, min time1 = 0.875186920166016
+time2 with context swith: 	3.330326 us	3.355134 us	3.351259 us	
+measureSwitch: array_size = 8192, stride = 0, min time2 = 3.330326080322266
+time1 without context switch: 	0.908804 us	0.872302 us	0.858951 us	
+measureSingle: array_size = 8192, stride = 0, min time1 = 0.858950614929199
+time2 with context swith: 	3.349638 us	3.361607 us	3.365183 us	
+measureSwitch: array_size = 8192, stride = 0, min time2 = 3.349637985229492
+time1 without context switch: 	0.856185 us	0.863791 us	0.854921 us	
+measureSingle: array_size = 8192, stride = 0, min time1 = 0.854921340942383
+time2 with context swith: 	3.336358 us	3.325462 us	3.345287 us	
+measureSwitch: array_size = 8192, stride = 0, min time2 = 3.325462341308594
+time1 without context switch: 	2.078748 us	2.085114 us	2.063107 us	
+measureSingle: array_size = 8192, stride = 8, min time1 = 2.063107490539551
+time2 with context swith: 	4.645848 us	4.618895 us	4.620552 us	
+measureSwitch: array_size = 8192, stride = 8, min time2 = 4.618895053863525
+time1 without context switch: 	2.096200 us	2.084827 us	2.151561 us	
+measureSingle: array_size = 8192, stride = 16, min time1 = 2.084827423095703
+time2 with context swith: 	4.654586 us	4.597831 us	4.605138 us	
+measureSwitch: array_size = 8192, stride = 16, min time2 = 4.597830772399902
+time1 without context switch: 	2.134275 us	2.122426 us	2.107835 us	
+measureSingle: array_size = 8192, stride = 32, min time1 = 2.107834815979004
+time2 with context swith: 	4.661465 us	4.682362 us	4.657435 us	
+measureSwitch: array_size = 8192, stride = 32, min time2 = 4.657435417175293
+time1 without context switch: 	2.192569 us	2.325010 us	2.207565 us	
+measureSingle: array_size = 8192, stride = 64, min time1 = 2.192568778991699
+time2 with context swith: 	4.731643 us	4.728580 us	4.753709 us	
+measureSwitch: array_size = 8192, stride = 64, min time2 = 4.728579521179199
+time1 without context switch: 	2.316761 us	2.315903 us	2.322006 us	
+measureSingle: array_size = 8192, stride = 128, min time1 = 2.315902709960938
+time2 with context swith: 	4.827869 us	4.868388 us	4.817092 us	
+measureSwitch: array_size = 8192, stride = 128, min time2 = 4.817092418670654
+time1 without context switch: 	2.137375 us	2.099276 us	2.088904 us	
+measureSingle: array_size = 8192, stride = 256, min time1 = 2.088904380798340
+time2 with context swith: 	4.675901 us	4.651475 us	4.653788 us	
+measureSwitch: array_size = 8192, stride = 256, min time2 = 4.651474952697754
+time1 without context switch: 	2.139091 us	2.093101 us	2.142954 us	
+measureSingle: array_size = 8192, stride = 512, min time1 = 2.093100547790527
+time2 with context swith: 	2.661920 us	4.637456 us	4.642618 us	
+measureSwitch: array_size = 8192, stride = 512, min time2 = 2.661919593811035
+time1 without context switch: 	2.100801 us	2.089667 us	2.079582 us	
+measureSingle: array_size = 8192, stride = 1024, min time1 = 2.079582214355469
+time2 with context swith: 	4.703736 us	4.680228 us	4.662371 us	
+measureSwitch: array_size = 8192, stride = 1024, min time2 = 4.662370681762695
+time1 without context switch: 	2.301097 us	2.284384 us	2.279019 us	
+measureSingle: array_size = 8192, stride = 2048, min time1 = 2.279019355773926
+time2 with context swith: 	6.127512 us	6.202686 us	4.766500 us	
+measureSwitch: array_size = 8192, stride = 2048, min time2 = 4.766499996185303
+time1 without context switch: 	2.828383 us	2.799249 us	2.881575 us	
+measureSingle: array_size = 8192, stride = 4096, min time1 = 2.799248695373535
+time2 with context swith: 	5.148840 us	5.175281 us	5.147898 us	
+measureSwitch: array_size = 8192, stride = 4096, min time2 = 5.147898197174072
+time1 without context switch: 	2.778196 us	2.797818 us	2.761412 us	
+measureSingle: array_size = 8192, stride = 8192, min time1 = 2.761411666870117
+time2 with context swith: 	5.282629 us	5.273235 us	5.291700 us	
+measureSwitch: array_size = 8192, stride = 8192, min time2 = 5.273234844207764
+time1 without context switch: 	0.871873 us	0.862694 us	0.861311 us	
+measureSingle: array_size = 16384, stride = 0, min time1 = 0.861310958862305
+time2 with context swith: 	3.348029 us	3.347576 us	3.317738 us	
+measureSwitch: array_size = 16384, stride = 0, min time2 = 3.317737579345703
+time1 without context switch: 	0.862885 us	0.887847 us	0.877762 us	
+measureSingle: array_size = 16384, stride = 0, min time1 = 0.862884521484375
+time2 with context swith: 	3.329110 us	3.328609 us	3.326428 us	
+measureSwitch: array_size = 16384, stride = 0, min time2 = 3.326427936553955
+time1 without context switch: 	0.861669 us	0.860429 us	0.872588 us	
+measureSingle: array_size = 16384, stride = 0, min time1 = 0.860428810119629
+time2 with context swith: 	3.336549 us	3.315330 us	3.343797 us	
+measureSwitch: array_size = 16384, stride = 0, min time2 = 3.315329551696777
+time1 without context switch: 	3.284168 us	3.256559 us	3.276610 us	
+measureSingle: array_size = 16384, stride = 8, min time1 = 3.256559371948242
+time2 with context swith: 	5.895162 us	5.904746 us	5.874157 us	
+measureSwitch: array_size = 16384, stride = 8, min time2 = 5.874156951904297
+time1 without context switch: 	3.297210 us	3.269720 us	3.386712 us	
+measureSingle: array_size = 16384, stride = 16, min time1 = 3.269720077514648
+time2 with context swith: 	5.889797 us	5.910659 us	5.896771 us	
+measureSwitch: array_size = 16384, stride = 16, min time2 = 5.889797210693359
+time1 without context switch: 	3.319001 us	3.307223 us	3.321099 us	
+measureSingle: array_size = 16384, stride = 32, min time1 = 3.307223320007324
+time2 with context swith: 	5.911708 us	5.941987 us	5.920494 us	
+measureSwitch: array_size = 16384, stride = 32, min time2 = 5.911707878112793
+time1 without context switch: 	3.411388 us	3.403234 us	3.379273 us	
+measureSingle: array_size = 16384, stride = 64, min time1 = 3.379273414611816
+time2 with context swith: 	6.028962 us	6.027830 us	6.024706 us	
+measureSwitch: array_size = 16384, stride = 64, min time2 = 6.024706363677979
+time1 without context switch: 	3.530312 us	3.524399 us	3.509808 us	
+measureSingle: array_size = 16384, stride = 128, min time1 = 3.509807586669922
+time2 with context swith: 	6.164360 us	6.149530 us	6.155705 us	
+measureSwitch: array_size = 16384, stride = 128, min time2 = 6.149530410766602
+time1 without context switch: 	3.732085 us	3.728247 us	3.720999 us	
+measureSingle: array_size = 16384, stride = 256, min time1 = 3.720998764038086
+time2 with context swith: 	6.359804 us	6.360972 us	6.331146 us	
+measureSwitch: array_size = 16384, stride = 256, min time2 = 6.331145763397217
+time1 without context switch: 	3.340745 us	3.286433 us	3.288651 us	
+measureSingle: array_size = 16384, stride = 512, min time1 = 3.286433219909668
+time2 with context swith: 	5.971694 us	5.948949 us	5.973279 us	
+measureSwitch: array_size = 16384, stride = 512, min time2 = 5.948948860168457
+time1 without context switch: 	3.367782 us	3.396559 us	3.294277 us	
+measureSingle: array_size = 16384, stride = 1024, min time1 = 3.294277191162109
+time2 with context swith: 	6.010973 us	5.980670 us	6.013250 us	
+measureSwitch: array_size = 16384, stride = 1024, min time2 = 5.980670452117920
+time1 without context switch: 	3.347898 us	3.320384 us	3.329325 us	
+measureSingle: array_size = 16384, stride = 2048, min time1 = 3.320384025573730
+time2 with context swith: 	6.057465 us	6.006455 us	6.037879 us	
+measureSwitch: array_size = 16384, stride = 2048, min time2 = 6.006455421447754
+time1 without context switch: 	3.719211 us	3.715420 us	3.683138 us	
+measureSingle: array_size = 16384, stride = 4096, min time1 = 3.683137893676758
+time2 with context swith: 	6.279993 us	6.261647 us	6.263280 us	
+measureSwitch: array_size = 16384, stride = 4096, min time2 = 6.261646747589111
+time1 without context switch: 	4.640555 us	4.634047 us	4.659915 us	
+measureSingle: array_size = 16384, stride = 8192, min time1 = 4.634046554565430
+time2 with context swith: 	6.824219 us	6.782782 us	6.801951 us	
+measureSwitch: array_size = 16384, stride = 8192, min time2 = 6.782782077789307
+time1 without context switch: 	4.640007 us	4.642415 us	4.627466 us	
+measureSingle: array_size = 16384, stride = 16384, min time1 = 4.627466201782227
+time2 with context swith: 	7.230854 us	7.241499 us	4.878283 us	
+measureSwitch: array_size = 16384, stride = 16384, min time2 = 4.878282546997070
+time1 without context switch: 	0.860882 us	0.908494 us	0.865054 us	
+measureSingle: array_size = 32768, stride = 0, min time1 = 0.860881805419922
+time2 with context swith: 	3.361356 us	3.352582 us	3.352845 us	
+measureSwitch: array_size = 32768, stride = 0, min time2 = 3.352582454681396
+time1 without context switch: 	0.862336 us	0.839591 us	0.902796 us	
+measureSingle: array_size = 32768, stride = 0, min time1 = 0.839591026306152
+time2 with context swith: 	3.327656 us	3.364837 us	3.442228 us	
+measureSwitch: array_size = 32768, stride = 0, min time2 = 3.327655792236328
+time1 without context switch: 	0.866079 us	0.884771 us	0.870824 us	
+measureSingle: array_size = 32768, stride = 0, min time1 = 0.866079330444336
+time2 with context swith: 	3.345776 us	3.321040 us	3.306091 us	
+measureSwitch: array_size = 32768, stride = 0, min time2 = 3.306090831756592
+time1 without context switch: 	5.741239 us	5.736017 us	5.726099 us	
+measureSingle: array_size = 32768, stride = 8, min time1 = 5.726099014282227
+time2 with context swith: 	8.288240 us	8.280349 us	8.283377 us	
+measureSwitch: array_size = 32768, stride = 8, min time2 = 8.280348777770996
+time1 without context switch: 	5.776119 us	5.782413 us	5.760932 us	
+measureSingle: array_size = 32768, stride = 16, min time1 = 5.760931968688965
+time2 with context swith: 	8.378744 us	8.353770 us	8.384883 us	
+measureSwitch: array_size = 32768, stride = 16, min time2 = 8.353769779205322
+time1 without context switch: 	5.894351 us	5.867648 us	5.884361 us	
+measureSingle: array_size = 32768, stride = 32, min time1 = 5.867648124694824
+time2 with context swith: 	8.454740 us	8.445418 us	8.512628 us	
+measureSwitch: array_size = 32768, stride = 32, min time2 = 8.445417881011963
+time1 without context switch: 	6.097960 us	6.061029 us	6.042290 us	
+measureSingle: array_size = 32768, stride = 64, min time1 = 6.042289733886719
+time2 with context swith: 	8.761048 us	8.631837 us	8.646452 us	
+measureSwitch: array_size = 32768, stride = 64, min time2 = 8.631837368011475
+time1 without context switch: 	6.193900 us	6.203651 us	6.245685 us	
+measureSingle: array_size = 32768, stride = 128, min time1 = 6.193900108337402
+time2 with context swith: 	8.782470 us	8.728635 us	8.740187 us	
+measureSwitch: array_size = 32768, stride = 128, min time2 = 8.728635311126709
+time1 without context switch: 	6.457829 us	6.546354 us	6.450057 us	
+measureSingle: array_size = 32768, stride = 256, min time1 = 6.450057029724121
+time2 with context swith: 	9.040856 us	9.006417 us	9.017694 us	
+measureSwitch: array_size = 32768, stride = 256, min time2 = 9.006416797637939
+time1 without context switch: 	7.150412 us	7.145047 us	7.168698 us	
+measureSingle: array_size = 32768, stride = 512, min time1 = 7.145047187805176
+time2 with context swith: 	9.733295 us	9.818900 us	9.753108 us	
+measureSwitch: array_size = 32768, stride = 512, min time2 = 9.733295440673828
+time1 without context switch: 	6.063461 us	6.055021 us	6.112337 us	
+measureSingle: array_size = 32768, stride = 1024, min time1 = 6.055021286010742
+time2 with context swith: 	8.723891 us	8.737457 us	8.728051 us	
+measureSwitch: array_size = 32768, stride = 1024, min time2 = 8.723890781402588
+time1 without context switch: 	6.897140 us	6.883335 us	6.879616 us	
+measureSingle: array_size = 32768, stride = 2048, min time1 = 6.879615783691406
+time2 with context swith: 	9.167922 us	9.173453 us	9.171844 us	
+measureSwitch: array_size = 32768, stride = 2048, min time2 = 9.167921543121338
+time1 without context switch: 	8.114409 us	8.276701 us	8.650303 us	
+measureSingle: array_size = 32768, stride = 4096, min time1 = 8.114409446716309
+time2 with context swith: 	9.661043 us	9.421194 us	9.362614 us	
+measureSwitch: array_size = 32768, stride = 4096, min time2 = 9.362614154815674
+time1 without context switch: 	6.616330 us	6.559992 us	6.629372 us	
+measureSingle: array_size = 32768, stride = 8192, min time1 = 6.559991836547852
+time2 with context swith: 	9.082699 us	8.964157 us	8.948278 us	
+measureSwitch: array_size = 32768, stride = 8192, min time2 = 8.948278427124023
+time1 without context switch: 	8.469892 us	8.429503 us	8.422184 us	
+measureSingle: array_size = 32768, stride = 16384, min time1 = 8.422183990478516
+time2 with context swith: 	10.262918 us	10.133576 us	10.375559 us	
+measureSwitch: array_size = 32768, stride = 16384, min time2 = 10.133576393127441
+time1 without context switch: 	8.433056 us	8.425355 us	8.461595 us	
+measureSingle: array_size = 32768, stride = 32768, min time1 = 8.425354957580566
+time2 with context swith: 	11.037993 us	11.031795 us	11.054862 us	
+measureSwitch: array_size = 32768, stride = 32768, min time2 = 11.031794548034668
+time1 without context switch: 	0.846910 us	0.867891 us	0.876784 us	
+measureSingle: array_size = 65536, stride = 0, min time1 = 0.846910476684570
+time2 with context swith: 	3.375268 us	3.358030 us	3.334320 us	
+measureSwitch: array_size = 65536, stride = 0, min time2 = 3.334319591522217
+time1 without context switch: 	0.864553 us	0.875282 us	0.862145 us	
+measureSingle: array_size = 65536, stride = 0, min time1 = 0.862145423889160
+time2 with context swith: 	3.348124 us	3.356552 us	3.336430 us	
+measureSwitch: array_size = 65536, stride = 0, min time2 = 3.336429595947266
+time1 without context switch: 	0.869179 us	0.844359 us	0.858545 us	
+measureSingle: array_size = 65536, stride = 0, min time1 = 0.844359397888184
+time2 with context swith: 	3.378928 us	3.338253 us	3.333855 us	
+measureSwitch: array_size = 65536, stride = 0, min time2 = 3.333854675292969
+time1 without context switch: 	10.616565 us	10.564947 us	10.561371 us	
+measureSingle: array_size = 65536, stride = 8, min time1 = 10.561370849609375
+time2 with context swith: 	13.129687 us	13.177931 us	13.147640 us	
+measureSwitch: array_size = 65536, stride = 8, min time2 = 13.129687309265137
+time1 without context switch: 	10.875964 us	11.375618 us	10.880136 us	
+measureSingle: array_size = 65536, stride = 16, min time1 = 10.875964164733887
+time2 with context swith: 	13.400948 us	13.382816 us	13.433444 us	
+measureSwitch: array_size = 65536, stride = 16, min time2 = 13.382816314697266
+time1 without context switch: 	12.093139 us	12.063456 us	12.313581 us	
+measureSingle: array_size = 65536, stride = 32, min time1 = 12.063455581665039
+time2 with context swith: 	14.721203 us	14.632547 us	15.059769 us	
+measureSwitch: array_size = 65536, stride = 32, min time2 = 14.632546901702881
+time1 without context switch: 	15.514612 us	15.506101 us	15.513015 us	
+measureSingle: array_size = 65536, stride = 64, min time1 = 15.506100654602051
+time2 with context swith: 	18.039000 us	18.038809 us	18.055475 us	
+measureSwitch: array_size = 65536, stride = 64, min time2 = 18.038809299468994
+time1 without context switch: 	15.285611 us	15.371680 us	15.276480 us	
+measureSingle: array_size = 65536, stride = 128, min time1 = 15.276479721069338
+time2 with context swith: 	17.870748 us	17.863488 us	17.875028 us	
+measureSwitch: array_size = 65536, stride = 128, min time2 = 17.863488197326660
+time1 without context switch: 	15.465760 us	15.637779 us	15.397096 us	
+measureSingle: array_size = 65536, stride = 256, min time1 = 15.397095680236816
+time2 with context swith: 	17.978585 us	17.989278 us	17.956233 us	
+measureSwitch: array_size = 65536, stride = 256, min time2 = 17.956233024597168
+time1 without context switch: 	40.270782 us	40.195727 us	40.217447 us	
+measureSingle: array_size = 65536, stride = 512, min time1 = 40.195727348327637
+time2 with context swith: 	18.700671 us	18.612456 us	18.614745 us	
+measureSwitch: array_size = 65536, stride = 512, min time2 = 18.612456321716309
+time1 without context switch: 	17.188287 us	17.121649 us	17.156482 us	
+measureSingle: array_size = 65536, stride = 1024, min time1 = 17.121648788452148
+time2 with context swith: 	19.664907 us	19.818389 us	19.738412 us	
+measureSwitch: array_size = 65536, stride = 1024, min time2 = 19.664907455444336
+time1 without context switch: 	67.792678 us	68.236446 us	68.246484 us	
+measureSingle: array_size = 65536, stride = 2048, min time1 = 67.792677879333496
+time2 with context swith: 	72.362232 us	69.842172 us	69.087994 us	
+measureSwitch: array_size = 65536, stride = 2048, min time2 = 69.087994098663330
+time1 without context switch: 	108.172822 us	108.838487 us	108.869147 us	
+measureSingle: array_size = 65536, stride = 4096, min time1 = 108.172821998596191
+time2 with context swith: 	98.266721 us	99.341214 us	99.597204 us	
+measureSwitch: array_size = 65536, stride = 4096, min time2 = 98.266720771789551
+time1 without context switch: 	13.415694 us	13.616753 us	13.523054 us	
+measureSingle: array_size = 65536, stride = 8192, min time1 = 13.415694236755371
+time2 with context swith: 	15.474617 us	15.239727 us	16.259038 us	
+measureSwitch: array_size = 65536, stride = 8192, min time2 = 15.239727497100830
+time1 without context switch: 	12.283492 us	12.281418 us	12.224317 us	
+measureSingle: array_size = 65536, stride = 16384, min time1 = 12.224316596984863
+time2 with context swith: 	14.480913 us	14.455211 us	14.471877 us	
+measureSwitch: array_size = 65536, stride = 16384, min time2 = 14.455211162567139
+time1 without context switch: 	15.913200 us	15.897775 us	16.105795 us	
+measureSingle: array_size = 65536, stride = 32768, min time1 = 15.897774696350096
+time2 with context swith: 	16.663480 us	25.258231 us	27.635920 us	
+measureSwitch: array_size = 65536, stride = 32768, min time2 = 16.663479804992676
+time1 without context switch: 	15.922189 us	15.918159 us	16.003346 us	
+measureSingle: array_size = 65536, stride = 65536, min time1 = 15.918159484863283
+time2 with context swith: 	18.512857 us	18.499315 us	18.513310 us	
+measureSwitch: array_size = 65536, stride = 65536, min time2 = 18.499314785003662
+time1 without context switch: 	0.862670 us	0.874901 us	0.867772 us	
+measureSingle: array_size = 131072, stride = 0, min time1 = 0.862669944763184
+time2 with context swith: 	3.322268 us	3.322661 us	3.368831 us	
+measureSwitch: array_size = 131072, stride = 0, min time2 = 3.322267532348633
+time1 without context switch: 	0.856614 us	0.861454 us	0.912213 us	
+measureSingle: array_size = 131072, stride = 0, min time1 = 0.856614112854004
+time2 with context swith: 	3.331089 us	3.341126 us	3.333998 us	
+measureSwitch: array_size = 131072, stride = 0, min time2 = 3.331089019775391
+time1 without context switch: 	0.860429 us	0.861502 us	0.913644 us	
+measureSingle: array_size = 131072, stride = 0, min time1 = 0.860428810119629
+time2 with context swith: 	3.326821 us	3.318965 us	3.347719 us	
+measureSwitch: array_size = 131072, stride = 0, min time2 = 3.318965435028076
+time1 without context switch: 	20.497012 us	20.560646 us	20.450974 us	
+measureSingle: array_size = 131072, stride = 8, min time1 = 20.450973510742188
+time2 with context swith: 	46.314621 us	46.400535 us	22.951508 us	
+measureSwitch: array_size = 131072, stride = 8, min time2 = 22.951507568359375
+time1 without context switch: 	20.975113 us	20.835471 us	20.872569 us	
+measureSingle: array_size = 131072, stride = 16, min time1 = 20.835471153259277
+time2 with context swith: 	24.890924 us	27.331686 us	25.025678 us	
+measureSwitch: array_size = 131072, stride = 16, min time2 = 24.890923500061035
+time1 without context switch: 	23.336101 us	23.270726 us	23.259902 us	
+measureSingle: array_size = 131072, stride = 32, min time1 = 23.259902000427246
+time2 with context swith: 	50.112772 us	49.362421 us	25.876153 us	
+measureSwitch: array_size = 131072, stride = 32, min time2 = 25.876152515411377
+time1 without context switch: 	30.129671 us	30.180573 us	30.197597 us	
+measureSingle: array_size = 131072, stride = 64, min time1 = 30.129671096801758
+time2 with context swith: 	32.881665 us	32.923746 us	58.149278 us	
+measureSwitch: array_size = 131072, stride = 64, min time2 = 32.881665229797363
+time1 without context switch: 	79.268813 us	79.274273 us	79.062676 us	
+measureSingle: array_size = 131072, stride = 128, min time1 = 79.062676429748535
+time2 with context swith: 	57.088292 us	32.501972 us	32.515311 us	
+measureSwitch: array_size = 131072, stride = 128, min time2 = 32.501971721649170
+time1 without context switch: 	76.942182 us	76.900935 us	76.951194 us	
+measureSingle: array_size = 131072, stride = 256, min time1 = 76.900935173034668
+time2 with context swith: 	55.963778 us	55.514252 us	55.408299 us	
+measureSwitch: array_size = 131072, stride = 256, min time2 = 55.408298969268799
+time1 without context switch: 	30.722904 us	30.704379 us	30.792522 us	
+measureSingle: array_size = 131072, stride = 512, min time1 = 30.704379081726074
+time2 with context swith: 	33.743966 us	33.411884 us	33.437896 us	
+measureSwitch: array_size = 131072, stride = 512, min time2 = 33.411884307861328
+time1 without context switch: 	32.191205 us	32.176542 us	32.155037 us	
+measureSingle: array_size = 131072, stride = 1024, min time1 = 32.155036926269531
+time2 with context swith: 	58.796704 us	58.869457 us	35.053194 us	
+measureSwitch: array_size = 131072, stride = 1024, min time2 = 35.053193569183350
+time1 without context switch: 	147.512960 us	135.342121 us	146.525526 us	
+measureSingle: array_size = 131072, stride = 2048, min time1 = 135.342121124267578
+time2 with context swith: 	109.183240 us	125.742042 us	113.830042 us	
+measureSwitch: array_size = 131072, stride = 2048, min time2 = 109.183239936828613
+time1 without context switch: 	266.514182 us	279.611230 us	335.708094 us	
+measureSingle: array_size = 131072, stride = 4096, min time1 = 266.514182090759277
+time2 with context swith: 	240.282249 us	244.469440 us	238.482201 us	
+measureSwitch: array_size = 131072, stride = 4096, min time2 = 238.482201099395752
+time1 without context switch: 	203.735161 us	202.796483 us	201.434994 us	
+measureSingle: array_size = 131072, stride = 8192, min time1 = 201.434993743896484
+time2 with context swith: 	160.386240 us	155.219877 us	152.442873 us	
+measureSwitch: array_size = 131072, stride = 8192, min time2 = 152.442872524261475
+time1 without context switch: 	26.302838 us	25.967836 us	26.181293 us	
+measureSingle: array_size = 131072, stride = 16384, min time1 = 25.967836380004883
+time2 with context swith: 	28.625333 us	28.797925 us	28.693688 us	
+measureSwitch: array_size = 131072, stride = 16384, min time2 = 28.625333309173584
+time1 without context switch: 	23.649693 us	23.500371 us	23.490405 us	
+measureSingle: array_size = 131072, stride = 32768, min time1 = 23.490405082702637
+time2 with context swith: 	48.248041 us	25.519764 us	25.598860 us	
+measureSwitch: array_size = 131072, stride = 32768, min time2 = 25.519764423370361
+time1 without context switch: 	31.119323 us	30.992675 us	31.022954 us	
+measureSingle: array_size = 131072, stride = 65536, min time1 = 30.992674827575687
+time2 with context swith: 	30.323327 us	30.535436 us	30.540788 us	
+measureSwitch: array_size = 131072, stride = 65536, min time2 = 30.323326587677002
+time1 without context switch: 	30.996585 us	31.008434 us	31.005144 us	
+measureSingle: array_size = 131072, stride = 131072, min time1 = 30.996584892272946
+time2 with context swith: 	48.725319 us	49.647415 us	33.969617 us	
+measureSwitch: array_size = 131072, stride = 131072, min time2 = 33.969616889953613
+time1 without context switch: 	0.860190 us	0.851798 us	0.849056 us	
+measureSingle: array_size = 262144, stride = 0, min time1 = 0.849056243896484
+time2 with context swith: 	3.331089 us	3.343308 us	3.358400 us	
+measureSwitch: array_size = 262144, stride = 0, min time2 = 3.331089019775391
+time1 without context switch: 	0.871468 us	0.860190 us	0.872898 us	
+measureSingle: array_size = 262144, stride = 0, min time1 = 0.860190391540527
+time2 with context swith: 	3.371561 us	3.362679 us	3.364980 us	
+measureSwitch: array_size = 262144, stride = 0, min time2 = 3.362679481506348
+time1 without context switch: 	0.872183 us	0.852180 us	0.872660 us	
+measureSingle: array_size = 262144, stride = 0, min time1 = 0.852179527282715
+time2 with context swith: 	3.368163 us	3.353012 us	3.313732 us	
+measureSwitch: array_size = 262144, stride = 0, min time2 = 3.313732147216797
+time1 without context switch: 	39.525485 us	39.582205 us	39.590240 us	
+measureSingle: array_size = 262144, stride = 8, min time1 = 39.525485038757324
+time2 with context swith: 	42.759538 us	42.674136 us	42.644620 us	
+measureSwitch: array_size = 262144, stride = 8, min time2 = 42.644619941711426
+time1 without context switch: 	40.828228 us	41.110325 us	41.121078 us	
+measureSingle: array_size = 262144, stride = 16, min time1 = 40.828227996826172
+time2 with context swith: 	105.769718 us	90.786505 us	44.139755 us	
+measureSwitch: array_size = 262144, stride = 16, min time2 = 44.139754772186279
+time1 without context switch: 	45.739889 us	45.866871 us	45.620036 us	
+measureSingle: array_size = 262144, stride = 32, min time1 = 45.620036125183105
+time2 with context swith: 	92.956007 us	93.121672 us	50.185037 us	
+measureSwitch: array_size = 262144, stride = 32, min time2 = 50.185036659240723
+time1 without context switch: 	59.902453 us	60.029554 us	60.048246 us	
+measureSingle: array_size = 262144, stride = 64, min time1 = 59.902453422546387
+time2 with context swith: 	62.817311 us	101.632285 us	101.011288 us	
+measureSwitch: array_size = 262144, stride = 64, min time2 = 62.817311286926270
+time1 without context switch: 	58.258367 us	58.213353 us	58.131814 us	
+measureSingle: array_size = 262144, stride = 128, min time1 = 58.131814002990723
+time2 with context swith: 	84.175897 us	97.903061 us	88.231325 us	
+measureSwitch: array_size = 262144, stride = 128, min time2 = 84.175896644592285
+time1 without context switch: 	155.018902 us	136.584806 us	155.103135 us	
+measureSingle: array_size = 262144, stride = 256, min time1 = 136.584806442260742
+time2 with context swith: 	62.065244 us	62.814200 us	98.373413 us	
+measureSwitch: array_size = 262144, stride = 256, min time2 = 62.065243721008294
+time1 without context switch: 	62.106395 us	62.013698 us	61.845899 us	
+measureSingle: array_size = 262144, stride = 512, min time1 = 61.845898628234870
+time2 with context swith: 	63.965964 us	64.240754 us	64.702165 us	
+measureSwitch: array_size = 262144, stride = 512, min time2 = 63.965964317321784
+time1 without context switch: 	63.405442 us	63.411641 us	63.436556 us	
+measureSingle: array_size = 262144, stride = 1024, min time1 = 63.405442237854011
+time2 with context swith: 	84.063041 us	69.426680 us	59.131730 us	
+measureSwitch: array_size = 262144, stride = 1024, min time2 = 59.131729602813721
+time1 without context switch: 	279.905915 us	208.997750 us	248.994231 us	
+measureSingle: array_size = 262144, stride = 2048, min time1 = 208.997750282287598
+time2 with context swith: 	198.724031 us	201.635754 us	199.950850 us	
+measureSwitch: array_size = 262144, stride = 2048, min time2 = 198.724031448364258
+time1 without context switch: 	492.414713 us	545.639277 us	462.931633 us	
+measureSingle: array_size = 262144, stride = 4096, min time1 = 462.931632995605469
+time2 with context swith: 	453.330874 us	452.178693 us	451.820683 us	
+measureSwitch: array_size = 262144, stride = 4096, min time2 = 451.820683479309082
+time1 without context switch: 	527.144670 us	509.794688 us	532.346129 us	
+measureSingle: array_size = 262144, stride = 8192, min time1 = 509.794688224792537
+time2 with context swith: 	448.298764 us	444.568133 us	456.176651 us	
+measureSwitch: array_size = 262144, stride = 8192, min time2 = 444.568133354187012
+time1 without context switch: 	183.412337 us	190.945029 us	196.014094 us	
+measureSingle: array_size = 262144, stride = 16384, min time1 = 183.412337303161621
+time2 with context swith: 	274.717355 us	280.462801 us	235.994577 us	
+measureSwitch: array_size = 262144, stride = 16384, min time2 = 235.994577407836914
+time1 without context switch: 	135.580373 us	135.492206 us	130.821109 us	
+measureSingle: array_size = 262144, stride = 32768, min time1 = 130.821108818054199
+time2 with context swith: 	95.460999 us	51.293278 us	52.708983 us	
+measureSwitch: array_size = 262144, stride = 32768, min time2 = 51.293277740478516
+time1 without context switch: 	46.459651 us	46.401906 us	46.263266 us	
+measureSingle: array_size = 262144, stride = 65536, min time1 = 46.263265609741211
+time2 with context swith: 	48.312628 us	48.437750 us	48.111904 us	
+measureSwitch: array_size = 262144, stride = 65536, min time2 = 48.111903667449951
+time1 without context switch: 	61.142135 us	61.152291 us	61.379337 us	
+measureSingle: array_size = 262144, stride = 131072, min time1 = 61.142134666442864
+time2 with context swith: 	112.238610 us	87.928820 us	57.915795 us	
+measureSwitch: array_size = 262144, stride = 131072, min time2 = 57.915794849395752
+time1 without context switch: 	133.674383 us	134.005451 us	134.146738 us	
+measureSingle: array_size = 262144, stride = 262144, min time1 = 133.674383163452148
+time2 with context swith: 	80.469239 us	65.049791 us	65.345061 us	
+measureSwitch: array_size = 262144, stride = 262144, min time2 = 65.049791336059570
+time1 without context switch: 	0.855637 us	0.861287 us	0.877523 us	
+measureSingle: array_size = 524288, stride = 0, min time1 = 0.855636596679688
+time2 with context swith: 	3.367853 us	3.366208 us	3.365541 us	
+measureSwitch: array_size = 524288, stride = 0, min time2 = 3.365540504455566
+time1 without context switch: 	0.861907 us	0.905752 us	0.853801 us	
+measureSingle: array_size = 524288, stride = 0, min time1 = 0.853800773620605
+time2 with context swith: 	3.368580 us	3.356302 us	3.382015 us	
+measureSwitch: array_size = 524288, stride = 0, min time2 = 3.356301784515381
+time1 without context switch: 	0.866246 us	0.864768 us	0.876737 us	
+measureSingle: array_size = 524288, stride = 0, min time1 = 0.864768028259277
+time2 with context swith: 	3.343201 us	3.354275 us	3.339970 us	
+measureSwitch: array_size = 524288, stride = 0, min time2 = 3.339970111846924
+time1 without context switch: 	79.351425 us	79.153800 us	79.227924 us	
+measureSingle: array_size = 524288, stride = 8, min time1 = 79.153800010681152
+time2 with context swith: 	122.404099 us	148.350441 us	130.433130 us	
+measureSwitch: array_size = 524288, stride = 8, min time2 = 122.404098510742188
+time1 without context switch: 	196.148109 us	234.284353 us	229.013896 us	
+measureSingle: array_size = 524288, stride = 16, min time1 = 196.148109436035156
+time2 with context swith: 	130.192840 us	137.847805 us	123.284721 us	
+measureSwitch: array_size = 524288, stride = 16, min time2 = 123.284721374511733
+time1 without context switch: 	93.212533 us	93.157268 us	93.609071 us	
+measureSingle: array_size = 524288, stride = 32, min time1 = 93.157267570495605
+time2 with context swith: 	147.575307 us	96.406376 us	146.692014 us	
+measureSwitch: array_size = 524288, stride = 32, min time2 = 96.406376361846924
+time1 without context switch: 	116.096377 us	128.246617 us	128.333259 us	
+measureSingle: array_size = 524288, stride = 64, min time1 = 116.096377372741699
+time2 with context swith: 	169.610643 us	157.057321 us	112.013006 us	
+measureSwitch: array_size = 524288, stride = 64, min time2 = 112.013006210327148
+time1 without context switch: 	238.815451 us	224.926329 us	255.661941 us	
+measureSingle: array_size = 524288, stride = 128, min time1 = 224.926328659057617
+time2 with context swith: 	114.121211 us	105.753517 us	124.204350 us	
+measureSwitch: array_size = 524288, stride = 128, min time2 = 105.753517150878906
+time1 without context switch: 	241.961455 us	299.664283 us	263.990045 us	
+measureSingle: array_size = 524288, stride = 256, min time1 = 241.961455345153809
+time2 with context swith: 	159.641707 us	159.808397 us	170.398557 us	
+measureSwitch: array_size = 524288, stride = 256, min time2 = 159.641706943511963
+time1 without context switch: 	149.848199 us	137.683678 us	146.872592 us	
+measureSingle: array_size = 524288, stride = 512, min time1 = 137.683677673339844
+time2 with context swith: 	107.148647 us	155.116403 us	195.031595 us	
+measureSwitch: array_size = 524288, stride = 512, min time2 = 107.148647308349609
+time1 without context switch: 	127.166843 us	154.671288 us	138.142657 us	
+measureSingle: array_size = 524288, stride = 1024, min time1 = 127.166843414306641
+time2 with context swith: 	192.175269 us	195.183647 us	153.128338 us	
+measureSwitch: array_size = 524288, stride = 1024, min time2 = 153.128337860107422
+time1 without context switch: 	423.654556 us	411.218405 us	406.911516 us	
+measureSingle: array_size = 524288, stride = 2048, min time1 = 406.911516189575195
+time2 with context swith: 	368.297315 us	313.116074 us	234.569943 us	
+measureSwitch: array_size = 524288, stride = 2048, min time2 = 234.569942951202393
+time1 without context switch: 	992.664599 us	1031.895638 us	979.225111 us	
+measureSingle: array_size = 524288, stride = 4096, min time1 = 979.225111007690430
+time2 with context swith: 	887.340784 us	895.052981 us	893.231356 us	
+measureSwitch: array_size = 524288, stride = 4096, min time2 = 887.340784072875977
+time1 without context switch: 	918.257499 us	989.716887 us	1059.453940 us	
+measureSingle: array_size = 524288, stride = 8192, min time1 = 918.257498741149902
+time2 with context swith: 	945.340765 us	865.150058 us	848.021674 us	
+measureSwitch: array_size = 524288, stride = 8192, min time2 = 848.021674156188965
+time1 without context switch: 	931.121039 us	915.345883 us	986.634111 us	
+measureSingle: array_size = 524288, stride = 16384, min time1 = 915.345883369445801
+time2 with context swith: 	861.020899 us	825.143254 us	842.806256 us	
+measureSwitch: array_size = 524288, stride = 16384, min time2 = 825.143253803253174
+time1 without context switch: 	600.933552 us	600.542521 us	644.956350 us	
+measureSingle: array_size = 524288, stride = 32768, min time1 = 600.542521476745605
+time2 with context swith: 	430.846989 us	452.260399 us	442.478776 us	
+measureSwitch: array_size = 524288, stride = 32768, min time2 = 430.846989154815674
+time1 without context switch: 	102.425337 us	102.422690 us	102.328706 us	
+measureSingle: array_size = 524288, stride = 65536, min time1 = 102.328705787658691
+time2 with context swith: 	96.126688 us	97.736049 us	97.752047 us	
+measureSwitch: array_size = 524288, stride = 65536, min time2 = 96.126687526702881
+time1 without context switch: 	254.153419 us	205.772805 us	203.155899 us	
+measureSingle: array_size = 524288, stride = 131072, min time1 = 203.155899047851562
+time2 with context swith: 	79.621315 us	89.557147 us	95.928371 us	
+measureSwitch: array_size = 524288, stride = 131072, min time2 = 79.621315002441406
+time1 without context switch: 	232.959247 us	217.357922 us	209.412956 us	
+measureSingle: array_size = 524288, stride = 262144, min time1 = 209.412956237792969
+time2 with context swith: 	90.353918 us	94.961476 us	96.752405 us	
+measureSwitch: array_size = 524288, stride = 262144, min time2 = 90.353918075561523
+time1 without context switch: 	121.455932 us	121.298242 us	122.163630 us	
+measureSingle: array_size = 524288, stride = 524288, min time1 = 121.298241615295410
+time2 with context swith: 	127.507353 us	128.743529 us	115.467644 us	
+measureSwitch: array_size = 524288, stride = 524288, min time2 = 115.467643737792969
+time1 without context switch: 	0.871587 us	0.871491 us	0.879025 us	
+measureSingle: array_size = 1048576, stride = 0, min time1 = 0.871491432189941
+time2 with context swith: 	3.357494 us	3.350890 us	3.347576 us	
+measureSwitch: array_size = 1048576, stride = 0, min time2 = 3.347575664520264
+time1 without context switch: 	0.870991 us	0.866604 us	0.879407 us	
+measureSingle: array_size = 1048576, stride = 0, min time1 = 0.866603851318359
+time2 with context swith: 	3.327847 us	3.371167 us	3.358889 us	
+measureSwitch: array_size = 1048576, stride = 0, min time2 = 3.327846527099609
+time1 without context switch: 	0.858688 us	0.903392 us	0.859737 us	
+measureSingle: array_size = 1048576, stride = 0, min time1 = 0.858688354492188
+time2 with context swith: 	3.329039 us	3.366816 us	3.384972 us	
+measureSwitch: array_size = 1048576, stride = 0, min time2 = 3.329038619995117
+time1 without context switch: 	158.580637 us	140.287423 us	158.170509 us	
+measureSingle: array_size = 1048576, stride = 8, min time1 = 140.287423133850098
+time2 with context swith: 	192.628646 us	202.558684 us	121.052885 us	
+measureSwitch: array_size = 1048576, stride = 8, min time2 = 121.052885055541992
+time1 without context switch: 	394.838333 us	450.951266 us	366.484189 us	
+measureSingle: array_size = 1048576, stride = 16, min time1 = 366.484189033508301
+time2 with context swith: 	235.879147 us	137.507081 us	198.220289 us	
+measureSwitch: array_size = 1048576, stride = 16, min time2 = 137.507081031799316
+time1 without context switch: 	369.711256 us	530.043077 us	369.480133 us	
+measureSingle: array_size = 1048576, stride = 32, min time1 = 369.480133056640625
+time2 with context swith: 	198.612106 us	194.147623 us	206.020212 us	
+measureSwitch: array_size = 1048576, stride = 32, min time2 = 194.147622585296631
+time1 without context switch: 	483.179951 us	412.270737 us	406.474519 us	
+measureSingle: array_size = 1048576, stride = 64, min time1 = 406.474518775939941
+time2 with context swith: 	199.988067 us	225.895870 us	236.302638 us	
+measureSwitch: array_size = 1048576, stride = 64, min time2 = 199.988067150115967
+time1 without context switch: 	413.294244 us	473.710990 us	529.556060 us	
+measureSingle: array_size = 1048576, stride = 128, min time1 = 413.294243812561035
+time2 with context swith: 	220.642436 us	282.307792 us	266.268182 us	
+measureSwitch: array_size = 1048576, stride = 128, min time2 = 220.642435550689697
+time1 without context switch: 	256.788206 us	235.296297 us	260.327339 us	
+measureSingle: array_size = 1048576, stride = 256, min time1 = 235.296297073364258
+time2 with context swith: 	336.637330 us	356.954980 us	391.296446 us	
+measureSwitch: array_size = 1048576, stride = 256, min time2 = 336.637330055236816
+time1 without context switch: 	328.875494 us	243.885112 us	268.131566 us	
+measureSingle: array_size = 1048576, stride = 512, min time1 = 243.885111808776855
+time2 with context swith: 	327.339435 us	352.112961 us	336.713517 us	
+measureSwitch: array_size = 1048576, stride = 512, min time2 = 327.339434623718262
+time1 without context switch: 	600.406814 us	522.338033 us	558.490324 us	
+measureSingle: array_size = 1048576, stride = 1024, min time1 = 522.338032722473145
+time2 with context swith: 	356.009376 us	311.761725 us	313.083375 us	
+measureSwitch: array_size = 1048576, stride = 1024, min time2 = 311.761724948883057
+time1 without context switch: 	420.604777 us	439.603472 us	535.236645 us	
+measureSingle: array_size = 1048576, stride = 2048, min time1 = 420.604777336120605
+time2 with context swith: 	692.644989 us	606.910694 us	544.391835 us	
+measureSwitch: array_size = 1048576, stride = 2048, min time2 = 544.391834735870361
+time1 without context switch: 	1790.290284 us	1705.851007 us	1753.656077 us	
+measureSingle: array_size = 1048576, stride = 4096, min time1 = 1705.851006507873535
+time2 with context swith: 	1826.892900 us	1792.571676 us	1759.259164 us	
+measureSwitch: array_size = 1048576, stride = 4096, min time2 = 1759.259164333343506
+time1 without context switch: 	1778.256488 us	1755.682945 us	1773.737741 us	
+measureSingle: array_size = 1048576, stride = 8192, min time1 = 1755.682945251464844
+time2 with context swith: 	1798.177314 us	1817.523468 us	1755.694997 us	
+measureSwitch: array_size = 1048576, stride = 8192, min time2 = 1755.694997310638428
+time1 without context switch: 	1610.167503 us	1679.147840 us	1746.583033 us	
+measureSingle: array_size = 1048576, stride = 16384, min time1 = 1610.167503356933594
+time2 with context swith: 	1727.344930 us	1659.096992 us	1799.148428 us	
+measureSwitch: array_size = 1048576, stride = 16384, min time2 = 1659.096992015838623
+time1 without context switch: 	1570.373607 us	1480.862117 us	1476.058292 us	
+measureSingle: array_size = 1048576, stride = 32768, min time1 = 1476.058292388916016
+time2 with context swith: 	1685.367429 us	1650.660133 us	1689.813209 us	
+measureSwitch: array_size = 1048576, stride = 32768, min time2 = 1650.660133361816406
+time1 without context switch: 	1128.254557 us	1068.083405 us	1064.781952 us	
+measureSingle: array_size = 1048576, stride = 65536, min time1 = 1064.781951904296875
+time2 with context swith: 	1012.127447 us	1066.966271 us	831.851494 us	
+measureSwitch: array_size = 1048576, stride = 65536, min time2 = 831.851494312286377
+time1 without context switch: 	391.957188 us	428.388858 us	413.322878 us	
+measureSingle: array_size = 1048576, stride = 131072, min time1 = 391.957187652587891
+time2 with context swith: 	230.481672 us	240.571189 us	215.526831 us	
+measureSwitch: array_size = 1048576, stride = 131072, min time2 = 215.526831150054932
+time1 without context switch: 	383.639812 us	387.703848 us	416.980553 us	
+measureSingle: array_size = 1048576, stride = 262144, min time1 = 383.639812469482422
+time2 with context swith: 	193.112719 us	132.541203 us	200.917041 us	
+measureSwitch: array_size = 1048576, stride = 262144, min time2 = 132.541203498840332
+time1 without context switch: 	361.231089 us	378.760242 us	384.979105 us	
+measureSingle: array_size = 1048576, stride = 524288, min time1 = 361.231088638305664
+time2 with context swith: 	165.330517 us	187.199616 us	191.566932 us	
+measureSwitch: array_size = 1048576, stride = 524288, min time2 = 165.330517292022705
+time1 without context switch: 	223.601103 us	175.510812 us	225.489831 us	
+measureSingle: array_size = 1048576, stride = 1048576, min time1 = 175.510811805725098
+time2 with context swith: 	157.836938 us	176.329601 us	167.720711 us	
+measureSwitch: array_size = 1048576, stride = 1048576, min time2 = 157.836937904357910
+time1 without context switch: 	0.901723 us	0.873971 us	0.889969 us	
+measureSingle: array_size = 2097152, stride = 0, min time1 = 0.873970985412598
+time2 with context swith: 	3.361893 us	3.376245 us	3.332436 us	
+measureSwitch: array_size = 2097152, stride = 0, min time2 = 3.332436084747314
+time1 without context switch: 	0.892258 us	0.865173 us	0.865746 us	
+measureSingle: array_size = 2097152, stride = 0, min time1 = 0.865173339843750
+time2 with context swith: 	3.349483 us	3.342605 us	3.308940 us	
+measureSwitch: array_size = 2097152, stride = 0, min time2 = 3.308939933776855
+time1 without context switch: 	0.892258 us	0.863647 us	0.868297 us	
+measureSingle: array_size = 2097152, stride = 0, min time1 = 0.863647460937500
+time2 with context swith: 	3.352773 us	3.323638 us	3.336251 us	
+measureSwitch: array_size = 2097152, stride = 0, min time2 = 3.323638439178467
+time1 without context switch: 	692.822742 us	839.311528 us	684.145594 us	
+measureSingle: array_size = 2097152, stride = 8, min time1 = 684.145593643188477
+time2 with context swith: 	410.684037 us	447.007573 us	346.704113 us	
+measureSwitch: array_size = 2097152, stride = 8, min time2 = 346.704113483428955
+time1 without context switch: 	793.223071 us	748.326564 us	680.561137 us	
+measureSingle: array_size = 2097152, stride = 16, min time1 = 680.561137199401855
+time2 with context swith: 	508.773232 us	485.307658 us	454.713261 us	
+measureSwitch: array_size = 2097152, stride = 16, min time2 = 454.713261127471924
+time1 without context switch: 	709.552407 us	706.492424 us	703.665590 us	
+measureSingle: array_size = 2097152, stride = 32, min time1 = 703.665590286254883
+time2 with context swith: 	332.513404 us	363.435233 us	436.907506 us	
+measureSwitch: array_size = 2097152, stride = 32, min time2 = 332.513403892517090
+time1 without context switch: 	763.768888 us	782.919669 us	742.802954 us	
+measureSingle: array_size = 2097152, stride = 64, min time1 = 742.802953720092773
+time2 with context swith: 	479.231834 us	529.400682 us	499.868131 us	
+measureSwitch: array_size = 2097152, stride = 64, min time2 = 479.231834411621094
+time1 without context switch: 	885.822296 us	799.012923 us	829.760480 us	
+measureSingle: array_size = 2097152, stride = 128, min time1 = 799.012923240661621
+time2 with context swith: 	744.697976 us	651.784062 us	653.721428 us	
+measureSwitch: array_size = 2097152, stride = 128, min time2 = 651.784062385559082
+time1 without context switch: 	867.445731 us	826.536131 us	856.345987 us	
+measureSingle: array_size = 2097152, stride = 256, min time1 = 826.536130905151367
+time2 with context swith: 	670.131004 us	723.625028 us	720.882726 us	
+measureSwitch: array_size = 2097152, stride = 256, min time2 = 670.131003856658936
+time1 without context switch: 	506.809902 us	458.990550 us	430.982137 us	
+measureSingle: array_size = 2097152, stride = 512, min time1 = 430.982136726379395
+time2 with context swith: 	712.009633 us	801.698184 us	773.543608 us	
+measureSwitch: array_size = 2097152, stride = 512, min time2 = 712.009632587432861
+time1 without context switch: 	1262.831473 us	959.284091 us	1039.972687 us	
+measureSingle: array_size = 2097152, stride = 1024, min time1 = 959.284090995788574
+time2 with context swith: 	546.902454 us	618.005693 us	471.311343 us	
+measureSwitch: array_size = 2097152, stride = 1024, min time2 = 471.311342716217041
+time1 without context switch: 	803.467417 us	851.507592 us	918.869185 us	
+measureSingle: array_size = 2097152, stride = 2048, min time1 = 803.467416763305664
+time2 with context swith: 	1240.709686 us	1107.825637 us	911.091864 us	
+measureSwitch: array_size = 2097152, stride = 2048, min time2 = 911.091864109039307
+time1 without context switch: 	3432.117224 us	3388.702226 us	3547.964358 us	
+measureSingle: array_size = 2097152, stride = 4096, min time1 = 3388.702225685119629
+time2 with context swith: 	3640.210843 us	3855.623496 us	3588.018370 us	
+measureSwitch: array_size = 2097152, stride = 4096, min time2 = 3588.018369674682617
+time1 without context switch: 	3489.791107 us	3452.551270 us	3803.103280 us	
+measureSingle: array_size = 2097152, stride = 8192, min time1 = 3452.551269531250000
+time2 with context swith: 	3454.749894 us	3355.702841 us	3496.100485 us	
+measureSwitch: array_size = 2097152, stride = 8192, min time2 = 3355.702841281890869
+time1 without context switch: 	3600.245905 us	3972.222066 us	3562.557721 us	
+measureSingle: array_size = 2097152, stride = 16384, min time1 = 3562.557721138000488
+time2 with context swith: 	3526.795769 us	3458.704686 us	3602.223170 us	
+measureSwitch: array_size = 2097152, stride = 16384, min time2 = 3458.704686164855957
+time1 without context switch: 	3098.352981 us	3025.939775 us	3247.154188 us	
+measureSingle: array_size = 2097152, stride = 32768, min time1 = 3025.939774513244629
+time2 with context swith: 	3496.961188 us	3588.816869 us	3370.389473 us	
+measureSwitch: array_size = 2097152, stride = 32768, min time2 = 3370.389473438262939
+time1 without context switch: 	3287.807965 us	2872.962475 us	2880.193043 us	
+measureSingle: array_size = 2097152, stride = 65536, min time1 = 2872.962474822998047
+time2 with context swith: 	3313.071716 us	3416.378880 us	3366.797781 us	
+measureSwitch: array_size = 2097152, stride = 65536, min time2 = 3313.071715831756592
+time1 without context switch: 	1397.952771 us	1491.540861 us	1471.181250 us	
+measureSingle: array_size = 2097152, stride = 131072, min time1 = 1397.952771186828613
+time2 with context swith: 	1752.904367 us	1680.688047 us	1758.271861 us	
+measureSwitch: array_size = 2097152, stride = 131072, min time2 = 1680.688047409057617
+time1 without context switch: 	685.586739 us	691.091800 us	698.877382 us	
+measureSingle: array_size = 2097152, stride = 262144, min time1 = 685.586738586425781
+time2 with context swith: 	490.293014 us	367.207491 us	455.248165 us	
+measureSwitch: array_size = 2097152, stride = 262144, min time2 = 367.207491397857666
+time1 without context switch: 	680.270600 us	690.404510 us	675.388598 us	
+measureSingle: array_size = 2097152, stride = 524288, min time1 = 675.388598442077637
+time2 with context swith: 	436.669576 us	426.343107 us	430.755174 us	
+measureSwitch: array_size = 2097152, stride = 524288, min time2 = 426.343107223510742
+time1 without context switch: 	769.386792 us	724.522567 us	653.024435 us	
+measureSingle: array_size = 2097152, stride = 1048576, min time1 = 653.024435043334961
+time2 with context swith: 	487.704957 us	333.866251 us	383.816719 us	
+measureSwitch: array_size = 2097152, stride = 1048576, min time2 = 333.866250514984131
+time1 without context switch: 	621.090913 us	611.780095 us	605.975056 us	
+measureSingle: array_size = 2097152, stride = 2097152, min time1 = 605.975055694580078
+time2 with context swith: 	416.629899 us	327.766383 us	439.268649 us	
+measureSwitch: array_size = 2097152, stride = 2097152, min time2 = 327.766382694244385
+time1 without context switch: 	0.856304 us	0.850558 us	0.879097 us	
+measureSingle: array_size = 4194304, stride = 0, min time1 = 0.850558280944824
+time2 with context swith: 	3.370202 us	3.364599 us	3.377557 us	
+measureSwitch: array_size = 4194304, stride = 0, min time2 = 3.364598751068115
+time1 without context switch: 	0.863886 us	0.862503 us	0.864577 us	
+measureSingle: array_size = 4194304, stride = 0, min time1 = 0.862503051757812
+time2 with context swith: 	3.358376 us	3.361046 us	3.358984 us	
+measureSwitch: array_size = 4194304, stride = 0, min time2 = 3.358376026153564
+time1 without context switch: 	0.858259 us	0.853896 us	0.857472 us	
+measureSingle: array_size = 4194304, stride = 0, min time1 = 0.853896141052246
+time2 with context swith: 	3.409779 us	3.347504 us	3.362668 us	
+measureSwitch: array_size = 4194304, stride = 0, min time2 = 3.347504138946533
+time1 without context switch: 	1332.410073 us	1556.186914 us	1356.976032 us	
+measureSingle: array_size = 4194304, stride = 8, min time1 = 1332.410073280334473
+time2 with context swith: 	1124.650669 us	1052.342856 us	946.579194 us	
+measureSwitch: array_size = 4194304, stride = 8, min time2 = 946.579194068908691
+time1 without context switch: 	1423.997641 us	1580.607128 us	1404.116821 us	
+measureSingle: array_size = 4194304, stride = 16, min time1 = 1404.116821289062500
+time2 with context swith: 	1036.050677 us	934.941387 us	986.538720 us	
+measureSwitch: array_size = 4194304, stride = 16, min time2 = 934.941387176513672
+time1 without context switch: 	1478.873444 us	1485.575294 us	1306.916738 us	
+measureSingle: array_size = 4194304, stride = 32, min time1 = 1306.916737556457520
+time2 with context swith: 	1062.047410 us	1047.772658 us	1268.961477 us	
+measureSwitch: array_size = 4194304, stride = 32, min time2 = 1047.772657871246338
+time1 without context switch: 	1448.168874 us	1570.728922 us	1395.711541 us	
+measureSingle: array_size = 4194304, stride = 64, min time1 = 1395.711541175842285
+time2 with context swith: 	1113.984728 us	1192.577398 us	1239.089239 us	
+measureSwitch: array_size = 4194304, stride = 64, min time2 = 1113.984727859497070
+time1 without context switch: 	1489.602637 us	1635.502815 us	1617.583108 us	
+measureSingle: array_size = 4194304, stride = 128, min time1 = 1489.602637290954590
+time2 with context swith: 	1422.626185 us	1347.340345 us	1487.218344 us	
+measureSwitch: array_size = 4194304, stride = 128, min time2 = 1347.340345382690430
+time1 without context switch: 	1780.469012 us	1651.814198 us	1738.810825 us	
+measureSingle: array_size = 4194304, stride = 256, min time1 = 1651.814198493957520
+time2 with context swith: 	1583.628798 us	1685.297060 us	1604.751110 us	
+measureSwitch: array_size = 4194304, stride = 256, min time2 = 1583.628797531127930
+time1 without context switch: 	1696.647620 us	1742.512083 us	1905.885434 us	
+measureSingle: array_size = 4194304, stride = 512, min time1 = 1696.647620201110840
+time2 with context swith: 	1791.708601 us	1667.270219 us	1662.364936 us	
+measureSwitch: array_size = 4194304, stride = 512, min time2 = 1662.364935874938965
+time1 without context switch: 	1872.269297 us	1729.951763 us	1990.040755 us	
+measureSingle: array_size = 4194304, stride = 1024, min time1 = 1729.951763153076172
+time2 with context swith: 	1633.397663 us	1668.979084 us	1663.324225 us	
+measureSwitch: array_size = 4194304, stride = 1024, min time2 = 1633.397662639617920
+time1 without context switch: 	3286.093211 us	2626.641631 us	2663.862395 us	
+measureSingle: array_size = 4194304, stride = 2048, min time1 = 2626.641631126403809
+time2 with context swith: 	2660.554123 us	2691.761422 us	2633.044684 us	
+measureSwitch: array_size = 4194304, stride = 2048, min time2 = 2633.044683933258057
+time1 without context switch: 	7006.974339 us	7873.672318 us	7595.249915 us	
+measureSingle: array_size = 4194304, stride = 4096, min time1 = 7006.974339485168457
+time2 with context swith: 	7152.912509 us	7217.394400 us	7367.378151 us	
+measureSwitch: array_size = 4194304, stride = 4096, min time2 = 7152.912509441375732
+time1 without context switch: 	7792.808151 us	7138.548994 us	7561.237216 us	
+measureSingle: array_size = 4194304, stride = 8192, min time1 = 7138.548994064331055
+time2 with context swith: 	7126.528311 us	7122.878981 us	7535.804188 us	
+measureSwitch: array_size = 4194304, stride = 8192, min time2 = 7122.878980636596680
+time1 without context switch: 	7032.581854 us	7438.998747 us	7131.244636 us	
+measureSingle: array_size = 4194304, stride = 16384, min time1 = 7032.581853866577148
+time2 with context swith: 	7398.985565 us	7349.693727 us	7059.931207 us	
+measureSwitch: array_size = 4194304, stride = 16384, min time2 = 7059.931206703186035
+time1 without context switch: 	7475.970602 us	7397.342730 us	7411.588168 us	
+measureSingle: array_size = 4194304, stride = 32768, min time1 = 7397.342729568481445
+time2 with context swith: 	7005.277121 us	7053.770208 us	7320.689201 us	
+measureSwitch: array_size = 4194304, stride = 32768, min time2 = 7005.277121067047119
+time1 without context switch: 	7211.315084 us	6427.956557 us	6329.662967 us	
+measureSingle: array_size = 4194304, stride = 65536, min time1 = 6329.662966728210449
+time2 with context swith: 	6760.227108 us	6853.898513 us	6868.732381 us	
+measureSwitch: array_size = 4194304, stride = 65536, min time2 = 6760.227108001708984
+time1 without context switch: 	6152.093387 us	5818.426967 us	6055.694199 us	
+measureSingle: array_size = 4194304, stride = 131072, min time1 = 5818.426966667175293
+time2 with context swith: 	6285.618913 us	6934.871185 us	6563.662255 us	
+measureSwitch: array_size = 4194304, stride = 131072, min time2 = 6285.618913173675537
+time1 without context switch: 	3351.030469 us	3652.976179 us	3416.668677 us	
+measureSingle: array_size = 4194304, stride = 262144, min time1 = 3351.030468940734863
+time2 with context swith: 	3180.808234 us	3683.891606 us	3770.189917 us	
+measureSwitch: array_size = 4194304, stride = 262144, min time2 = 3180.808234214782715
+time1 without context switch: 	1382.105827 us	1296.230793 us	1407.275343 us	
+measureSingle: array_size = 4194304, stride = 524288, min time1 = 1296.230792999267578
+time2 with context swith: 	863.893294 us	933.254302 us	963.476896 us	
+measureSwitch: array_size = 4194304, stride = 524288, min time2 = 863.893294334411621
+time1 without context switch: 	1319.554639 us	1331.899428 us	1296.268225 us	
+measureSingle: array_size = 4194304, stride = 1048576, min time1 = 1296.268224716186523
+time2 with context swith: 	807.508373 us	765.413404 us	690.265846 us	
+measureSwitch: array_size = 4194304, stride = 1048576, min time2 = 690.265846252441406
+time1 without context switch: 	1366.308403 us	1361.489320 us	1356.628871 us	
+measureSingle: array_size = 4194304, stride = 2097152, min time1 = 1356.628870964050293
+time2 with context swith: 	734.755433 us	659.159732 us	826.539612 us	
+measureSwitch: array_size = 4194304, stride = 2097152, min time2 = 659.159731864929199
+time1 without context switch: 	1152.950406 us	1218.347025 us	1193.262601 us	
+measureSingle: array_size = 4194304, stride = 4194304, min time1 = 1152.950406074523926
+time2 with context swith: 	651.937783 us	667.017329 us	664.995396 us	
+measureSwitch: array_size = 4194304, stride = 4194304, min time2 = 651.937782764434814
+time1 without context switch: 	0.883341 us	0.856614 us	0.856256 us	
+measureSingle: array_size = 8388608, stride = 0, min time1 = 0.856256484985352
+time2 with context swith: 	3.358591 us	3.363550 us	3.319490 us	
+measureSwitch: array_size = 8388608, stride = 0, min time2 = 3.319489955902100
+time1 without context switch: 	0.887251 us	0.867271 us	0.885534 us	
+measureSingle: array_size = 8388608, stride = 0, min time1 = 0.867271423339844
+time2 with context swith: 	3.328907 us	3.310430 us	3.331304 us	
+measureSwitch: array_size = 8388608, stride = 0, min time2 = 3.310430049896240
+time1 without context switch: 	0.871658 us	0.857997 us	0.873637 us	
+measureSingle: array_size = 8388608, stride = 0, min time1 = 0.857996940612793
+time2 with context swith: 	3.337359 us	3.355885 us	3.335392 us	
+measureSwitch: array_size = 8388608, stride = 0, min time2 = 3.335392475128174
+time1 without context switch: 	2719.775319 us	2782.462740 us	2864.659929 us	
+measureSingle: array_size = 8388608, stride = 8, min time1 = 2719.775319099426270
+time2 with context swith: 	2133.768749 us	2354.962444 us	1975.509167 us	
+measureSwitch: array_size = 8388608, stride = 8, min time2 = 1975.509166717529297
+time1 without context switch: 	2578.987432 us	2830.977249 us	2627.533698 us	
+measureSingle: array_size = 8388608, stride = 16, min time1 = 2578.987431526184082
+time2 with context swith: 	2559.826100 us	2523.430789 us	2680.727351 us	
+measureSwitch: array_size = 8388608, stride = 16, min time2 = 2523.430788516998291
+time1 without context switch: 	2921.647739 us	2850.284195 us	2910.983396 us	
+measureSingle: array_size = 8388608, stride = 32, min time1 = 2850.284194946289062
+time2 with context swith: 	2819.743073 us	2854.429483 us	2832.156396 us	
+measureSwitch: array_size = 8388608, stride = 32, min time2 = 2819.743072986602783
+time1 without context switch: 	3495.159435 us	3444.384050 us	3298.375463 us	
+measureSingle: array_size = 8388608, stride = 64, min time1 = 3298.375463485717773
+time2 with context swith: 	3547.619987 us	3581.954634 us	3766.269112 us	
+measureSwitch: array_size = 8388608, stride = 64, min time2 = 3547.619986534118652
+time1 without context switch: 	4432.717752 us	4371.784067 us	4290.928912 us	
+measureSingle: array_size = 8388608, stride = 128, min time1 = 4290.928912162780762
+time2 with context swith: 	4528.349006 us	4386.828983 us	4501.286733 us	
+measureSwitch: array_size = 8388608, stride = 128, min time2 = 4386.828982830047607
+time1 without context switch: 	4482.646418 us	4655.841684 us	4318.490791 us	
+measureSingle: array_size = 8388608, stride = 256, min time1 = 4318.490791320800781
+time2 with context swith: 	4827.532065 us	4982.925129 us	4991.201079 us	
+measureSwitch: array_size = 8388608, stride = 256, min time2 = 4827.532064914703369
+time1 without context switch: 	6123.491931 us	6059.432054 us	5866.244078 us	
+measureSingle: array_size = 8388608, stride = 512, min time1 = 5866.244077682495117
+time2 with context swith: 	6404.352331 us	6311.748827 us	6074.186146 us	
+measureSwitch: array_size = 8388608, stride = 512, min time2 = 6074.186146259307861
+time1 without context switch: 	5931.240821 us	5780.781174 us	5901.537657 us	
+measureSingle: array_size = 8388608, stride = 1024, min time1 = 5780.781173706054688
+time2 with context swith: 	6394.991887 us	6579.794717 us	6543.499410 us	
+measureSwitch: array_size = 8388608, stride = 1024, min time2 = 6394.991886615753174
+time1 without context switch: 	6507.133341 us	6661.892176 us	6590.409446 us	
+measureSingle: array_size = 8388608, stride = 2048, min time1 = 6507.133340835571289
+time2 with context swith: 	6856.025863 us	6867.184901 us	6816.360831 us	
+measureSwitch: array_size = 8388608, stride = 2048, min time2 = 6816.360831260681152
+time1 without context switch: 	14443.836236 us	14556.060100 us	15564.631653 us	
+measureSingle: array_size = 8388608, stride = 4096, min time1 = 14443.836236000061035
+time2 with context swith: 	14767.096603 us	15364.858079 us	14807.924640 us	
+measureSwitch: array_size = 8388608, stride = 4096, min time2 = 14767.096602916717529
+time1 without context switch: 	14363.282490 us	14484.828711 us	14615.247869 us	
+measureSingle: array_size = 8388608, stride = 8192, min time1 = 14363.282489776611328
+time2 with context swith: 	14828.364456 us	14861.267638 us	14909.852827 us	
+measureSwitch: array_size = 8388608, stride = 8192, min time2 = 14828.364455699920654
+time1 without context switch: 	14627.772570 us	14869.278097 us	14923.259544 us	
+measureSingle: array_size = 8388608, stride = 16384, min time1 = 14627.772569656372070
+time2 with context swith: 	14962.796617 us	14724.760520 us	14995.790291 us	
+measureSwitch: array_size = 8388608, stride = 16384, min time2 = 14724.760520458221436
+time1 without context switch: 	14048.110390 us	15198.696280 us	14658.739328 us	
+measureSingle: array_size = 8388608, stride = 32768, min time1 = 14048.110389709472656
+time2 with context swith: 	14603.503633 us	15600.959265 us	16212.751853 us	
+measureSwitch: array_size = 8388608, stride = 32768, min time2 = 14603.503632545471191
+time1 without context switch: 	15061.330247 us	14643.769097 us	14710.244942 us	
+measureSingle: array_size = 8388608, stride = 65536, min time1 = 14643.769097328186035
+time2 with context swith: 	14496.500790 us	14564.943433 us	14952.123952 us	
+measureSwitch: array_size = 8388608, stride = 65536, min time2 = 14496.500790119171143
+time1 without context switch: 	14910.822105 us	14345.127988 us	13822.462630 us	
+measureSingle: array_size = 8388608, stride = 131072, min time1 = 13822.462630271911621
+time2 with context swith: 	14141.674304 us	14164.909363 us	14297.374833 us	
+measureSwitch: array_size = 8388608, stride = 131072, min time2 = 14141.674304008483887
+time1 without context switch: 	12523.421097 us	12744.631839 us	12451.698351 us	
+measureSingle: array_size = 8388608, stride = 262144, min time1 = 12451.698350906372070
+time2 with context swith: 	12345.980597 us	12079.790616 us	12190.566802 us	
+measureSwitch: array_size = 8388608, stride = 262144, min time2 = 12079.790616035461426
+time1 without context switch: 	5822.611833 us	6062.851048 us	5814.265513 us	
+measureSingle: array_size = 8388608, stride = 524288, min time1 = 5814.265513420104980
+time2 with context swith: 	7343.148506 us	7239.250195 us	7702.626872 us	
+measureSwitch: array_size = 8388608, stride = 524288, min time2 = 7239.250195026397705
+time1 without context switch: 	2610.200596 us	2510.762501 us	2558.243251 us	
+measureSingle: array_size = 8388608, stride = 1048576, min time1 = 2510.762500762939453
+time2 with context swith: 	2278.983045 us	1925.780642 us	1405.245018 us	
+measureSwitch: array_size = 8388608, stride = 1048576, min time2 = 1405.245018005371094
+time1 without context switch: 	2491.247678 us	2625.177312 us	2551.133180 us	
+measureSingle: array_size = 8388608, stride = 2097152, min time1 = 2491.247677803039551
+time2 with context swith: 	1621.156383 us	2336.985254 us	2221.774268 us	
+measureSwitch: array_size = 8388608, stride = 2097152, min time2 = 1621.156382560729980
+time1 without context switch: 	2632.335782 us	2687.916160 us	2960.151672 us	
+measureSingle: array_size = 8388608, stride = 4194304, min time1 = 2632.335782051086426
+time2 with context swith: 	1077.954447 us	1781.822062 us	1352.079403 us	
+measureSwitch: array_size = 8388608, stride = 4194304, min time2 = 1077.954447269439697
+time1 without context switch: 	2297.876048 us	2251.257944 us	2277.020669 us	
+measureSingle: array_size = 8388608, stride = 8388608, min time1 = 2251.257944107055664
+time2 with context swith: 	1675.259984 us	1673.562920 us	1636.132658 us	
+measureSwitch: array_size = 8388608, stride = 8388608, min time2 = 1636.132657527923584
+time1 without context switch: 	0.870132 us	0.881362 us	0.858474 us	
+measureSingle: array_size = 16777216, stride = 0, min time1 = 0.858473777770996
+time2 with context swith: 	3.356814 us	3.347600 us	3.337264 us	
+measureSwitch: array_size = 16777216, stride = 0, min time2 = 3.337264060974121
+time1 without context switch: 	0.866485 us	0.862956 us	0.863361 us	
+measureSingle: array_size = 16777216, stride = 0, min time1 = 0.862956047058105
+time2 with context swith: 	3.343368 us	1.821065 us	3.317595 us	
+measureSwitch: array_size = 16777216, stride = 0, min time2 = 1.821064949035645
+time1 without context switch: 	0.863862 us	0.888753 us	0.862527 us	
+measureSingle: array_size = 16777216, stride = 0, min time1 = 0.862526893615723
+time2 with context swith: 	3.352416 us	3.349578 us	3.327143 us	
+measureSwitch: array_size = 16777216, stride = 0, min time2 = 3.327143192291260
+time1 without context switch: 	5313.383198 us	5626.354432 us	5895.726061 us	
+measureSingle: array_size = 16777216, stride = 8, min time1 = 5313.383197784423828
+time2 with context swith: 	4842.789388 us	4857.725835 us	4754.000986 us	
+measureSwitch: array_size = 16777216, stride = 8, min time2 = 4754.000985622406006
+time1 without context switch: 	5419.730210 us	5332.256961 us	5573.321724 us	
+measureSingle: array_size = 16777216, stride = 16, min time1 = 5332.256960868835449
+time2 with context swith: 	5235.613179 us	5175.019348 us	5085.889900 us	
+measureSwitch: array_size = 16777216, stride = 16, min time2 = 5085.889899730682373
+time1 without context switch: 	6709.371042 us	6757.630777 us	7009.012580 us	
+measureSingle: array_size = 16777216, stride = 32, min time1 = 6709.371042251586914
+time2 with context swith: 	6542.743659 us	6635.738611 us	6707.850218 us	
+measureSwitch: array_size = 16777216, stride = 32, min time2 = 6542.743659019470215
+time1 without context switch: 	10086.091852 us	9705.979514 us	9666.195941 us	
+measureSingle: array_size = 16777216, stride = 64, min time1 = 9666.195940971374512
+time2 with context swith: 	9452.580357 us	9527.267063 us	9503.967142 us	
+measureSwitch: array_size = 16777216, stride = 64, min time2 = 9452.580356597900391
+time1 without context switch: 	13086.963105 us	13304.525304 us	13167.373347 us	
+measureSingle: array_size = 16777216, stride = 128, min time1 = 13086.963105201721191
+time2 with context swith: 	13038.045108 us	13071.200109 us	13101.765120 us	
+measureSwitch: array_size = 16777216, stride = 128, min time2 = 13038.045108318328857
+time1 without context switch: 	14277.126193 us	14130.906796 us	14200.915337 us	
+measureSingle: array_size = 16777216, stride = 256, min time1 = 14130.906796455383301
+time2 with context swith: 	14224.319303 us	14183.931518 us	14154.024267 us	
+measureSwitch: array_size = 16777216, stride = 256, min time2 = 14154.024267196655273
+time1 without context switch: 	17461.475658 us	17562.259984 us	17355.522728 us	
+measureSingle: array_size = 16777216, stride = 512, min time1 = 17355.522727966308594
+time2 with context swith: 	17620.556259 us	17541.327715 us	17456.206143 us	
+measureSwitch: array_size = 16777216, stride = 512, min time2 = 17456.206142902374268
+time1 without context switch: 	18492.532921 us	18293.686604 us	18241.037107 us	
+measureSingle: array_size = 16777216, stride = 1024, min time1 = 18241.037106513977051
+time2 with context swith: 	18167.828751 us	18350.220621 us	18174.160218 us	
+measureSwitch: array_size = 16777216, stride = 1024, min time2 = 18167.828750610351562
+time1 without context switch: 	19657.063699 us	19734.744549 us	19920.649219 us	
+measureSingle: array_size = 16777216, stride = 2048, min time1 = 19657.063698768615723
+time2 with context swith: 	19749.965811 us	19703.941882 us	19829.005098 us	
+measureSwitch: array_size = 16777216, stride = 2048, min time2 = 19703.941881656646729
+time1 without context switch: 	25644.500685 us	23830.344152 us	25208.550334 us	
+measureSingle: array_size = 16777216, stride = 4096, min time1 = 23830.344152450561523
+time2 with context swith: 	24770.685351 us	24342.809415 us	24280.031037 us	
+measureSwitch: array_size = 16777216, stride = 4096, min time2 = 24280.031037330627441
+time1 without context switch: 	28689.304161 us	29429.876995 us	29217.978621 us	
+measureSingle: array_size = 16777216, stride = 8192, min time1 = 28689.304161071777344
+time2 with context swith: 	29253.324533 us	28873.771191 us	29220.844245 us	
+measureSwitch: array_size = 16777216, stride = 8192, min time2 = 28873.771190643310547
+time1 without context switch: 	28085.804963 us	28398.413610 us	29550.750566 us	
+measureSingle: array_size = 16777216, stride = 16384, min time1 = 28085.804963111877441
+time2 with context swith: 	28756.406689 us	28701.311648 us	28753.304374 us	
+measureSwitch: array_size = 16777216, stride = 16384, min time2 = 28701.311647891998291
+time1 without context switch: 	28993.002748 us	28504.092550 us	29246.459317 us	
+measureSingle: array_size = 16777216, stride = 32768, min time1 = 28504.092550277709961
+time2 with context swith: 	28955.388749 us	28710.514486 us	29274.575734 us	
+measureSwitch: array_size = 16777216, stride = 32768, min time2 = 28710.514485836029053
+time1 without context switch: 	28994.163203 us	29455.481386 us	28811.042500 us	
+measureSingle: array_size = 16777216, stride = 65536, min time1 = 28811.042499542236328
+time2 with context swith: 	28863.752449 us	28764.854670 us	28715.606487 us	
+measureSwitch: array_size = 16777216, stride = 65536, min time2 = 28715.606486797332764
+time1 without context switch: 	28545.166278 us	28057.376623 us	27722.857523 us	
+measureSingle: array_size = 16777216, stride = 131072, min time1 = 27722.857522964477539
+time2 with context swith: 	28108.618581 us	28846.077490 us	27931.654203 us	
+measureSwitch: array_size = 16777216, stride = 131072, min time2 = 27931.654202938079834
+time1 without context switch: 	27173.539495 us	28743.985868 us	27422.911167 us	
+measureSingle: array_size = 16777216, stride = 262144, min time1 = 27173.539495468139648
+time2 with context swith: 	27908.972502 us	28311.633301 us	28356.808436 us	
+measureSwitch: array_size = 16777216, stride = 262144, min time2 = 27908.972501754760742
+time1 without context switch: 	25006.691480 us	25163.059115 us	24669.844484 us	
+measureSingle: array_size = 16777216, stride = 524288, min time1 = 24669.844484329223633
+time2 with context swith: 	26560.743785 us	26475.623727 us	26072.060335 us	
+measureSwitch: array_size = 16777216, stride = 524288, min time2 = 26072.060334682464600
+time1 without context switch: 	15411.897039 us	15996.786976 us	15857.426882 us	
+measureSingle: array_size = 16777216, stride = 1048576, min time1 = 15411.897039413452148
+time2 with context swith: 	17065.764856 us	14993.635905 us	14295.123923 us	
+measureSwitch: array_size = 16777216, stride = 1048576, min time2 = 14295.123922824859619
+time1 without context switch: 	5796.954989 us	6351.837707 us	5459.568787 us	
+measureSingle: array_size = 16777216, stride = 2097152, min time1 = 5459.568786621093750
+time2 with context swith: 	4838.257968 us	4186.003530 us	4661.985481 us	
+measureSwitch: array_size = 16777216, stride = 2097152, min time2 = 4186.003530025482178
+time1 without context switch: 	5595.825076 us	5699.521399 us	5546.430945 us	
+measureSingle: array_size = 16777216, stride = 4194304, min time1 = 5546.430945396423340
+time2 with context swith: 	5133.246374 us	5288.770604 us	5317.559552 us	
+measureSwitch: array_size = 16777216, stride = 4194304, min time2 = 5133.246374130249023
+time1 without context switch: 	5562.357616 us	5894.306922 us	5300.283170 us	
+measureSingle: array_size = 16777216, stride = 8388608, min time1 = 5300.283169746398926
+time2 with context swith: 	4882.981515 us	4855.236912 us	4941.725481 us	
+measureSwitch: array_size = 16777216, stride = 8388608, min time2 = 4855.236911773681641
+time1 without context switch: 	5054.338980 us	4956.675911 us	4956.472850 us	
+measureSingle: array_size = 16777216, stride = 16777216, min time1 = 4956.472849845886230
+time2 with context swith: 	4466.543651 us	4546.911931 us	4616.770065 us	
+measureSwitch: array_size = 16777216, stride = 16777216, min time2 = 4466.543650627136230
+time1 without context switch: 	0.856566 us	0.504375 us	0.851703 us	
+measureSingle: array_size = 33554432, stride = 0, min time1 = 0.504374504089355
+time2 with context swith: 	3.319168 us	3.297901 us	3.295588 us	
+measureSwitch: array_size = 33554432, stride = 0, min time2 = 3.295588493347168
+time1 without context switch: 	0.870919 us	0.863695 us	0.860023 us	
+measureSingle: array_size = 33554432, stride = 0, min time1 = 0.860023498535156
+time2 with context swith: 	3.335214 us	3.305256 us	3.310227 us	
+measureSwitch: array_size = 33554432, stride = 0, min time2 = 3.305256366729736
+time1 without context switch: 	0.882602 us	0.884199 us	0.926852 us	
+measureSingle: array_size = 33554432, stride = 0, min time1 = 0.882601737976074
+time2 with context swith: 	3.323436 us	3.327715 us	3.324008 us	
+measureSwitch: array_size = 33554432, stride = 0, min time2 = 3.323435783386230
+time1 without context switch: 	11276.944470 us	11115.437913 us	10968.406820 us	
+measureSingle: array_size = 33554432, stride = 8, min time1 = 10968.406820297241211
+time2 with context swith: 	10728.981149 us	10549.129307 us	10734.029174 us	
+measureSwitch: array_size = 33554432, stride = 8, min time2 = 10549.129307270050049
+time1 without context switch: 	11676.014900 us	11551.485991 us	11277.567720 us	
+measureSingle: array_size = 33554432, stride = 16, min time1 = 11277.567720413208008
+time2 with context swith: 	11386.436546 us	11358.849192 us	11153.492355 us	
+measureSwitch: array_size = 33554432, stride = 16, min time2 = 11153.492355346679688
+time1 without context switch: 	13794.389629 us	14196.198726 us	13905.576730 us	
+measureSingle: array_size = 33554432, stride = 32, min time1 = 13794.389629364013672
+time2 with context swith: 	13623.201787 us	13409.019279 us	13639.052212 us	
+measureSwitch: array_size = 33554432, stride = 32, min time2 = 13409.019279479980469
+time1 without context switch: 	19322.678518 us	19571.666193 us	19409.584999 us	
+measureSingle: array_size = 33554432, stride = 64, min time1 = 19322.678518295288086
+time2 with context swith: 	19183.401263 us	19225.623357 us	19023.340011 us	
+measureSwitch: array_size = 33554432, stride = 64, min time2 = 19023.340010643005371
+time1 without context switch: 	26398.234582 us	25965.529728 us	26039.947939 us	
+measureSingle: array_size = 33554432, stride = 128, min time1 = 25965.529727935791016
+time2 with context swith: 	26197.899497 us	26110.441613 us	26868.246031 us	
+measureSwitch: array_size = 33554432, stride = 128, min time2 = 26110.441613197326660
+time1 without context switch: 	29156.828570 us	28240.814734 us	28218.592381 us	
+measureSingle: array_size = 33554432, stride = 256, min time1 = 28218.592381477355957
+time2 with context swith: 	28130.560756 us	28186.590600 us	28107.753265 us	
+measureSwitch: array_size = 33554432, stride = 256, min time2 = 28107.753264904022217
+time1 without context switch: 	35055.683184 us	34830.465412 us	34761.218810 us	
+measureSingle: array_size = 33554432, stride = 512, min time1 = 34761.218810081481934
+time2 with context swith: 	34856.807160 us	34902.025568 us	34893.102288 us	
+measureSwitch: array_size = 33554432, stride = 512, min time2 = 34856.807160377502441
+time1 without context switch: 	36587.127209 us	36544.699073 us	36738.618803 us	
+measureSingle: array_size = 33554432, stride = 1024, min time1 = 36544.699072837829590
+time2 with context swith: 	36369.519687 us	36504.711843 us	36481.998980 us	
+measureSwitch: array_size = 33554432, stride = 1024, min time2 = 36369.519686698913574
+time1 without context switch: 	39818.438959 us	39836.310863 us	39795.625281 us	
+measureSingle: array_size = 33554432, stride = 2048, min time1 = 39795.625281333923340
+time2 with context swith: 	39297.503734 us	39444.629323 us	39800.827539 us	
+measureSwitch: array_size = 33554432, stride = 2048, min time2 = 39297.503733634948730
+time1 without context switch: 	49555.948639 us	49482.668591 us	50120.889974 us	
+measureSingle: array_size = 33554432, stride = 4096, min time1 = 49482.668590545654297
+time2 with context swith: 	49229.880297 us	49494.095671 us	48877.948880 us	
+measureSwitch: array_size = 33554432, stride = 4096, min time2 = 48877.948880195617676
+time1 without context switch: 	49724.017954 us	50962.141752 us	49393.801260 us	
+measureSingle: array_size = 33554432, stride = 8192, min time1 = 49393.801259994506836
+time2 with context swith: 	50519.197679 us	50009.386337 us	49617.215598 us	
+measureSwitch: array_size = 33554432, stride = 8192, min time2 = 49617.215597629547119
+time1 without context switch: 	58074.622059 us	57780.578446 us	57440.037322 us	
+measureSingle: array_size = 33554432, stride = 16384, min time1 = 57440.037322044372559
+time2 with context swith: 	57313.704622 us	57652.766132 us	58188.999772 us	
+measureSwitch: array_size = 33554432, stride = 16384, min time2 = 57313.704621791839600
+time1 without context switch: 	58438.835716 us	59041.680408 us	58261.999726 us	
+measureSingle: array_size = 33554432, stride = 32768, min time1 = 58261.999726295471191
+time2 with context swith: 	58680.077863 us	59983.695650 us	59015.825832 us	
+measureSwitch: array_size = 33554432, stride = 32768, min time2 = 58680.077862739562988
+time1 without context switch: 	58678.721189 us	58114.095950 us	59147.069263 us	
+measureSingle: array_size = 33554432, stride = 65536, min time1 = 58114.095950126647949
+time2 with context swith: 	58791.344035 us	58638.825798 us	58793.618965 us	
+measureSwitch: array_size = 33554432, stride = 65536, min time2 = 58638.825798034667969
+time1 without context switch: 	59331.659031 us	81978.533506 us	63581.488609 us	
+measureSingle: array_size = 33554432, stride = 131072, min time1 = 59331.659030914306641
+time2 with context swith: 	174320.372558 us	58258.462632 us	58067.596960 us	
+measureSwitch: array_size = 33554432, stride = 131072, min time2 = 58067.596960067749023
+time1 without context switch: 	56800.832033 us	56557.111835 us	57179.203844 us	
+measureSingle: array_size = 33554432, stride = 262144, min time1 = 56557.111835479736328
+time2 with context swith: 	56166.573238 us	56271.260941 us	55959.001851 us	
+measureSwitch: array_size = 33554432, stride = 262144, min time2 = 55959.001851081848145
+time1 without context switch: 	56064.999890 us	55101.689219 us	55314.399552 us	
+measureSingle: array_size = 33554432, stride = 524288, min time1 = 55101.689219474792480
+time2 with context swith: 	56529.932523 us	55669.864261 us	55878.104794 us	
+measureSwitch: array_size = 33554432, stride = 524288, min time2 = 55669.864261150360107
+time1 without context switch: 	48351.429129 us	47535.063100 us	48863.185477 us	
+measureSingle: array_size = 33554432, stride = 1048576, min time1 = 47535.063099861145020
+time2 with context swith: 	49110.148692 us	48988.092244 us	48713.406885 us	
+measureSwitch: array_size = 33554432, stride = 1048576, min time2 = 48713.406884670257568
+time1 without context switch: 	29096.301436 us	27753.484321 us	26516.630793 us	
+measureSingle: array_size = 33554432, stride = 2097152, min time1 = 26516.630792617797852
+time2 with context swith: 	28227.049220 us	28350.698757 us	28783.000541 us	
+measureSwitch: array_size = 33554432, stride = 2097152, min time2 = 28227.049219608306885
+time1 without context switch: 	10320.068121 us	9949.275446 us	10641.343546 us	
+measureSingle: array_size = 33554432, stride = 4194304, min time1 = 9949.275445938110352
+time2 with context swith: 	10056.339943 us	9894.736934 us	9826.224482 us	
+measureSwitch: array_size = 33554432, stride = 4194304, min time2 = 9826.224482059478760
+time1 without context switch: 	10433.422685 us	10277.202988 us	10112.586761 us	
+measureSingle: array_size = 33554432, stride = 8388608, min time1 = 10112.586760520935059
+time2 with context swith: 	10110.882163 us	9679.754806 us	9664.017177 us	
+measureSwitch: array_size = 33554432, stride = 8388608, min time2 = 9664.017176628112793
+time1 without context switch: 	10213.083768 us	10433.424973 us	9723.040700 us	
+measureSingle: array_size = 33554432, stride = 16777216, min time1 = 9723.040699958801270
+time2 with context swith: 	9847.546792 us	9378.755581 us	9558.081472 us	
+measureSwitch: array_size = 33554432, stride = 16777216, min time2 = 9378.755581378936768
+time1 without context switch: 	9229.340029 us	9419.647765 us	9201.585221 us	
+measureSingle: array_size = 33554432, stride = 33554432, min time1 = 9201.585221290588379
+time2 with context swith: 	8558.888924 us	9236.287737 us	8741.726518 us	
+measureSwitch: array_size = 33554432, stride = 33554432, min time2 = 8558.888924121856689
+time1 without context switch: 	0.853515 us	0.924015 us	0.890493 us	
+measureSingle: array_size = 67108864, stride = 0, min time1 = 0.853514671325684
+time2 with context swith: 	3.361702 us	3.354168 us	1.873660 us	
+measureSwitch: array_size = 67108864, stride = 0, min time2 = 1.873660087585449
+time1 without context switch: 	0.872636 us	0.868058 us	0.883985 us	
+measureSingle: array_size = 67108864, stride = 0, min time1 = 0.868058204650879
+time2 with context swith: 	3.330123 us	1.821947 us	3.335643 us	
+measureSwitch: array_size = 67108864, stride = 0, min time2 = 1.821947097778320
+time1 without context switch: 	0.867987 us	0.581717 us	0.722623 us	
+measureSingle: array_size = 67108864, stride = 0, min time1 = 0.581717491149902
+time2 with context swith: 	1.950812 us	3.335345 us	3.356290 us	
+measureSwitch: array_size = 67108864, stride = 0, min time2 = 1.950812339782715
+time1 without context switch: 	19781.012678 us	20212.431526 us	20067.104459 us	
+measureSingle: array_size = 67108864, stride = 8, min time1 = 19781.012678146362305
+time2 with context swith: 	20486.831892 us	20326.515687 us	20265.313375 us	
+measureSwitch: array_size = 67108864, stride = 8, min time2 = 20265.313374996185303
+time1 without context switch: 	20985.535240 us	21175.942016 us	20796.215987 us	
+measureSingle: array_size = 67108864, stride = 16, min time1 = 20796.215987205505371
+time2 with context swith: 	21289.289582 us	21151.807070 us	20991.304958 us	
+measureSwitch: array_size = 67108864, stride = 16, min time2 = 20991.304957866668701
+time1 without context switch: 	26788.318372 us	27194.506216 us	26873.574996 us	
+measureSingle: array_size = 67108864, stride = 32, min time1 = 26788.318371772766113
+time2 with context swith: 	27076.462615 us	26995.338094 us	26637.933636 us	
+measureSwitch: array_size = 67108864, stride = 32, min time2 = 26637.933635711669922
+time1 without context switch: 	38289.050531 us	39008.115959 us	38736.503911 us	
+measureSingle: array_size = 67108864, stride = 64, min time1 = 38289.050531387329102
+time2 with context swith: 	38579.669690 us	38583.593965 us	38719.175506 us	
+measureSwitch: array_size = 67108864, stride = 64, min time2 = 38579.669690132141113
+time1 without context switch: 	52696.592855 us	52903.428507 us	52297.087884 us	
+measureSingle: array_size = 67108864, stride = 128, min time1 = 52297.087883949279785
+time2 with context swith: 	52761.994445 us	53209.293556 us	52903.142059 us	
+measureSwitch: array_size = 67108864, stride = 128, min time2 = 52761.994445323944092
+time1 without context switch: 	56617.811275 us	56083.339429 us	56529.783034 us	
+measureSingle: array_size = 67108864, stride = 256, min time1 = 56083.339428901672363
+time2 with context swith: 	56848.945868 us	56892.001188 us	56454.096842 us	
+measureSwitch: array_size = 67108864, stride = 256, min time2 = 56454.096841812133789
+time1 without context switch: 	69470.837927 us	69448.134518 us	69339.277649 us	
+measureSingle: array_size = 67108864, stride = 512, min time1 = 69339.277648925781250
+time2 with context swith: 	72699.086297 us	70179.451680 us	69408.755362 us	
+measureSwitch: array_size = 67108864, stride = 512, min time2 = 69408.755362033843994
+time1 without context switch: 	72802.408504 us	72758.410048 us	72754.735327 us	
+measureSingle: array_size = 67108864, stride = 1024, min time1 = 72754.735326766967773
+time2 with context swith: 	72997.186339 us	72904.927564 us	73055.092013 us	
+measureSwitch: array_size = 67108864, stride = 1024, min time2 = 72904.927563667297363
+time1 without context switch: 	79499.385357 us	79344.784284 us	79664.474368 us	
+measureSingle: array_size = 67108864, stride = 2048, min time1 = 79344.784283638000488
+time2 with context swith: 	79662.776542 us	79648.495066 us	79724.350512 us	
+measureSwitch: array_size = 67108864, stride = 2048, min time2 = 79648.495066165924072
+time1 without context switch: 	100005.338883 us	98915.002775 us	99535.944510 us	
+measureSingle: array_size = 67108864, stride = 4096, min time1 = 98915.002775192260742
+time2 with context swith: 	99226.989985 us	99591.253114 us	100412.225223 us	
+measureSwitch: array_size = 67108864, stride = 4096, min time2 = 99226.989984512329102
+time1 without context switch: 	101925.601840 us	102681.425381 us	103927.127433 us	
+measureSingle: array_size = 67108864, stride = 8192, min time1 = 101925.601840019226074
+time2 with context swith: 	112881.298172 us	126948.994434 us	120206.349874 us	
+measureSwitch: array_size = 67108864, stride = 8192, min time2 = 112881.298172473907471
+time1 without context switch: 	125206.941605 us	123975.028539 us	102384.375906 us	
+measureSingle: array_size = 67108864, stride = 16384, min time1 = 102384.375905990600586
+time2 with context swith: 	104211.380959 us	104303.850055 us	104226.925278 us	
+measureSwitch: array_size = 67108864, stride = 16384, min time2 = 104211.380958557128906
+time1 without context switch: 	118392.650795 us	117356.606531 us	118096.742320 us	
+measureSingle: array_size = 67108864, stride = 32768, min time1 = 117356.606531143188477
+time2 with context swith: 	118569.064593 us	118264.920127 us	118001.299226 us	
+measureSwitch: array_size = 67108864, stride = 32768, min time2 = 118001.299226284027100
+time1 without context switch: 	118176.872587 us	118564.473939 us	118166.799664 us	
+measureSingle: array_size = 67108864, stride = 65536, min time1 = 118166.799664497375488
+time2 with context swith: 	119474.859822 us	118094.544613 us	117626.956248 us	
+measureSwitch: array_size = 67108864, stride = 65536, min time2 = 117626.956248283386230
+time1 without context switch: 	118484.976244 us	120566.978049 us	120317.922521 us	
+measureSingle: array_size = 67108864, stride = 131072, min time1 = 118484.976243972778320
+time2 with context swith: 	120412.522459 us	119488.478470 us	117975.483918 us	
+measureSwitch: array_size = 67108864, stride = 131072, min time2 = 117975.483918190002441
+time1 without context switch: 	117061.641836 us	119475.063539 us	121033.263803 us	
+measureSingle: array_size = 67108864, stride = 262144, min time1 = 117061.641836166381836
+time2 with context swith: 	
